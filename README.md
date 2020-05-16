@@ -1,1 +1,1 @@
-# esotericoquotidiano.github.io
+# esotericoquotidiano
