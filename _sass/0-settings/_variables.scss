@@ -1,0 +1,62 @@
+// *****************
+// Global Variables
+// *****************
+
+// Spaces
+$base-spacing-unit: 20px;
+
+// Transition
+$global-transition: all .35s;
+
+
+// *****************
+// Color Variables
+// *****************
+$brand-color: #f2756a;
+$dark: #17181E;
+$gray: #555;
+$light-gray: #f7f7f5;
+
+// Background Colors
+$background-color: #fff;
+
+// Body Color
+$text-color: $gray;
+
+// Headings
+$heading-font-color: $dark;
+
+// Links
+$link-color: $dark;
+$link-color-hover: #000;
+
+// Border
+$border-color: $light-gray;
+
+// Button
+$button-color: $dark;
+$button-color-hover: #000;
+
+// *****************
+// Typography
+// *****************
+$base-font-size: 18px;
+$base-font-style: normal;
+$base-font-variant: normal;
+$base-font-weight: normal;
+$base-font-family: 'Unna', "Times New Roman", serif;
+$base-line-height: 31px;
+
+// Headings
+$heading-font-weight: 400;
+$heading-font-family: 'Unna', "Times New Roman", serif;
+$heading-color: $dark;
+
+$font-size-h1:  36px;
+$font-size-h2:  28px;
+$font-size-h3:  24px;
+$font-size-h4:  20px;
+$font-size-h5:  18px;
+$font-size-h6:  16px;
+
+$heading-line-height: 1.3;

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% if page.image %}
+<div class="image-box">
+  <div class="page-image box-height" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
+</div>
+{% endif %}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <!-- begin page -->
+      <article class="page">
+        <div class="page-head">
+          <h1 class="page-head__title">{{ page.title | escape }}</h1>
+        </div>
+        <div class="page__content">
+          {{ content }}
+        </div>
+      </article>
+      <!-- end page -->
+    </div>
+  </div>
+</div>

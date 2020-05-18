@@ -1,0 +1,94 @@
+#-------------------------------
+# General Site Settings
+
+title: Caitlin
+logo: # You can add own logo. For example '/images/logo.png'.
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Caitlin Johnson
+  bio: Hi, my name is Caitlin Johnson. I like being at the center of events, being free and enjoying every moment.
+  image: 'https://via.placeholder.com/1920x1080'
+  avatar: 'https://via.placeholder.com/300x300'
+
+
+#-------------------------------
+# Hero section
+hero: true # To disable hero section use value false
+hero-title: Hello, my name is Caitlin
+hero-description: This is my personal blog and photo journal
+hero-image: 'https://via.placeholder.com/1920x1080'
+
+
+#-------------------------------
+# Footer section
+# Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
+# Other icons can be found at https://ionicons.com
+footer-image: 'https://via.placeholder.com/1920x1080'
+contact:
+- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {name: "Facebook", icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+- {name: "Instagram", icon: "ion-logo-instagram", link: "https://instagram.com"}
+- {name: "Pinterest", icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {name: "Email", icon: "ion-ios-mail", link: "mailto:forexample@website.com"}
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+userID: 6716400487
+accessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
