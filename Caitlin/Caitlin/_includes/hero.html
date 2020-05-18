@@ -1,0 +1,12 @@
+{% if site.hero %}
+<!-- begin hero -->
+<section class="hero box-height" style="background-image: url({{site.baseurl}}{{site.hero-image}})">
+  <div class="hero__inner">
+    <div class="hero__content">
+      <h1 class="hero__title">{{site.hero-title}}</h1>
+      <p class="hero__desc">{{site.hero-description}}</p>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+{% endif %}

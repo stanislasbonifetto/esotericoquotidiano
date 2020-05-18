@@ -1,0 +1,58 @@
+<!-- begin sidebar -->
+<aside class="sidebar">
+  <div class="widget widget-author">
+    <div class="author-image-box">
+      <div class="author__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})"></div>
+    </div>
+    <h5 class="author__name">{{site.author.name}}</h5>
+    <div class="author__bio">{{site.author.bio}}</div>
+  </div>
+
+  {% if site.mailchimp %}
+  <div class="widget widget-newsletter">
+    <div class="widget__head">
+      <h4 class="widget__title">Newsletter</h4>
+    </div>
+    <form class="newsletter-form validate" action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}"
+      method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+      <div class="newsletter-group">
+        <div class="newsletter-group-top">
+          <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+          <input class="newsletter-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Email Address">
+        </div>
+        <input class="newsletter-button" id="membedded-subscribe" type="submit" name="subscribe" value="Subscribe">
+      </div>
+    </form>
+  </div>
+  {% endif %}
+
+  <div class="widget widget-recent">
+    <div class="widget__head">
+      <h4 class="widget__title">Latest Story</h4>
+    </div>
+    {% for post in site.posts limit:4 %}
+    <div class="recent-posts">
+      {% if post.image %}
+        <a class="recent-posts__image" href="{{ post.url }}" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
+      {% else %}
+      {% endif %}
+      <div class="recent-posts__content">
+        <h6 class="recent-posts__title"><a href="{{ post.url }}">{{ post.title }}</a></h6>
+        <div class="recent-posts__date">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{post.date | date: "%B %-d, %Y"}}</time>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% if site.instafeed == true %}
+  <div class="widget widget-instagram">
+    <div class="widget__head">
+      <h4 class="widget__title">Instagram</h4>
+    </div>
+    {% include instagram.html %}
+  </div>
+  {% endif %}
+</aside>
+<!-- end sidebar -->

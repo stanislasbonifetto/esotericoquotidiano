@@ -1,0 +1,25 @@
+/* Pagination */
+.load-more-section {
+  text-align: center;
+}
+
+.load-more-posts {
+  position: relative;
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 700;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  color: #fff;
+  background-color: $dark;
+  transition: all .2s ease-in-out;
+  cursor: pointer;
+  &:hover {
+    background-color: $button-color-hover;
+  }
+}
