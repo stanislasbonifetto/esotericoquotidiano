@@ -1,11 +1,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Esoterico Quotidiano
+title: EQ
 logo: # You can add own logo. For example '/images/logo.png'.
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 #-------------------------------
 # Author Settings
@@ -19,8 +20,8 @@ author:
 #-------------------------------
 # Hero section
 hero: true # To disable hero section use value false
-hero-title: Hello, my name is Caitlin
-hero-description: This is my personal blog and photo journal
+hero-title: Esoterico Quotidiano
+hero-description: un percorso per chi si fa domande
 hero-image: 'https://via.placeholder.com/1920x1080'
 
 
