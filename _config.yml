@@ -32,12 +32,12 @@ hero-image: 'https://via.placeholder.com/1920x1080'
 footer-image: 'https://via.placeholder.com/1920x1080'
 contact:
   - {name: "Instagram", icon: "ion-logo-instagram", link: "https://instagram.com"}
+  - {name: "Email", icon: "ion-ios-mail", link: "mailto:esotericoquotidiano@gmail.com"}
 
   # - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
   # - {name: "Facebook", icon: "ion-logo-facebook", link: "https://facebook.com"}
   # - {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
   # - {name: "Pinterest", icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-  # - {name: "Email", icon: "ion-ios-mail", link: "mailto:forexample@website.com"}
 
 
 #-------------------------------
