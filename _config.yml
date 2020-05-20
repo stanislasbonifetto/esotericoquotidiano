@@ -54,7 +54,7 @@ accessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-167238945-1
 
 
 #-------------------------------
