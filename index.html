@@ -11,13 +11,12 @@ layout: default
           <div class="row grid">
             {% if site.posts.size > 0 %}
 
-              {% assign frontline_posts = site.posts | where: 'frontline', true %}
+              {% assign frontline_posts = site.pages | where: 'frontline', true %}
               {% for post in frontline_posts %}
                 {% include article-content.html %}
               {% endfor %}
 
-              {% assign paginator_posts = paginator.posts | where: 'frontline', nil %}
-              {% for post in paginator_posts %}
+              {% for post in paginator.posts %}
                 {% include article-content.html %}
               {% endfor %}
             {% endif %}

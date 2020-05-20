@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cosa significa esoterico
-permalink: /cosa-significa-esoterico/
+title: Storia del libro
+permalink: /storia-del-libro/
 image: 'https://via.placeholder.com/1920x1080'
 frontline: true
 ---
