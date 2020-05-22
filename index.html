@@ -9,13 +9,10 @@ layout: default
       <div class="container__inner">
         <div class="contaniner__inner-box">
           <div class="row grid">
-            {% assign frontline_posts = site.pages | where: 'frontline', true %}
-            {% if frontline_posts.size > 0 %}
-              {% for post in frontline_posts %}
-                {% include article-content.html %}
-              {% endfor %}
-            {% endif %}
-
+            {% assign home_page_pages = site.pages | where: 'home_page', true %}
+            {% for page in home_page_pages %}
+              {% include page-content.html %}
+            {% endfor %}
             {% if site.posts.size > 0 %}
               {% for post in paginator.posts %}
                 {% include article-content.html %}
