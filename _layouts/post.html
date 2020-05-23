@@ -33,6 +33,7 @@ layout: default
         </div>
         
         {% if page.comment_getform %} {% include comment-form-getfrom.html %} {% endif %}
+        {% if page.comment_mailchimp %} {% include comment-mailchip-survey.html %} {% endif %}
 
         <div class="author-image-box">
           <a href="{{site.baseurl}}/about/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})" aria-label="{{site.author.name}}"></a>
