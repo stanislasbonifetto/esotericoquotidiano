@@ -71,6 +71,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-multiple-languages-plugin
 
 paginate: 9
 paginate_path: "/page/:num"
@@ -93,3 +94,5 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+languages: ["it"]  
