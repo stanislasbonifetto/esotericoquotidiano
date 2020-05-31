@@ -1,0 +1,8 @@
+<time datetime="{{ include.date | date_to_xmlschema }}">
+    {% assign months = "january|february|march|april|may|june|july|august|september|october|november|december" | split: "|" %}
+    {% assign m = include.date | date: "%-m" | minus: 1 %}
+    {% assign day = include.date | date: "%d" %}
+    {% assign month = months[m] %}
+    {% assign year = include.date | date: "%Y" %}
+    {{ day }}, {% t month %}, {{ year }}
+</time>

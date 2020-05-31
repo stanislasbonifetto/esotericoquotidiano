@@ -1,2 +1,24 @@
 global:
     latest_story: Ultimi articoli
+    share_this: Condividi
+    next_page: Successiva
+    previous_page: Precedente
+    read_more: Continua a leggere
+    hey: Ciao!
+
+    newsletter:
+        email_address: Indirizzo email
+        subscribe: Iscriviti
+
+january: Gennaio
+february: Febbraio
+march: Marzo
+april: Aprile
+may: Maggio
+june: Giugno
+july: Luglio
+august: Agosto
+september: Settembre
+october: Ottobre
+november: November
+december: Dicembre

@@ -1,2 +1,24 @@
 global:
-    latest_story: Latest Stdory
+    latest_story: Latest Story
+    share_this: Share this
+    next_page: Next Page
+    previous_page: Previous Page
+    read_more: Read more
+    hey: Hey!
+
+    newsletter:
+        email_address: Email address
+        subscribe: Subscribe
+        
+january: January
+february: February
+march: March
+april: April
+may: May
+june: June
+july: July
+august: August
+september: September
+october: October
+november: November
+december: December

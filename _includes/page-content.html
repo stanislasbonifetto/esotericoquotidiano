@@ -9,7 +9,7 @@
   {% endif %}
   <div class="article__content">
     <div class="article__meta">
-      <span class="article__date"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ page.date | date: date_format }}</time></span>
+      <span class="article__date">{% include content_date.html date=page.date %}</span>
     </div>
     <p class="article__excerpt">{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncate: 180 }}{% endif %}</p>
   </div>

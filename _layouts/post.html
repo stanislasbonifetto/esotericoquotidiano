@@ -21,9 +21,7 @@ layout: default
                 {% endfor %}
               </div>
             {% endif %}
-            <span class="post-date">
-              <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
-            </span>
+            <span class="post-date">{% include content_date.html date=page.date %}</span>
           </div>
           <h1 class="post-title">{{ page.title | escape }}</h1>
         </div>
@@ -39,7 +37,7 @@ layout: default
 
         <div class="post__share">
           <div class="share__head">
-            <div class="share__title">Share this</div>
+            <div class="share__title">{% t global.share_this %}</div>
           </div>
           <ul class="share__list list-reset">
             <li class="share__item">
@@ -75,13 +73,13 @@ layout: default
         <div class="post__navigation">
           {% if page.previous.url %}
             <div class="prev">
-              <a class="post__nav post__nav__prev" href="{{page.previous.url}}"><i class="ion ion-ios-arrow-back"></i> Previous Page</a>
+              <a class="post__nav post__nav__prev" href="{{page.previous.url}}"><i class="ion ion-ios-arrow-back"></i> {% t global.previous_page %}</a>
               <h4 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h4>
             </div>
           {% endif %}
           {% if page.next.url %}
           <div class="next">
-            <a class="post__nav post__nav__next" href="{{page.next.url}}">Next Page <i class="ion ion-ios-arrow-forward"></i></a>
+            <a class="post__nav post__nav__next" href="{{page.next.url}}">{% t global.next_page %} <i class="ion ion-ios-arrow-forward"></i></a>
             <h4 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h4>
           </div>
           {% endif %}

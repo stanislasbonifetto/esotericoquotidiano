@@ -19,7 +19,7 @@
           {% else %}
         {% endif %}
       </div>
-      <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+      <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% include content_date.html date=post.date %}</time></span>
     </div>
     <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 180 }}{% endif %}</p>
   </div>
