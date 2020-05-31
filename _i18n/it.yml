@@ -8,6 +8,10 @@ page:
     previous_page: Precedente
     share_this: Condividi
 
+page_404:
+    page_not_found: Pagina non trovata.
+    back_to_blog: Torna al Blog    
+
 newsletter:
     email_address: Indirizzo email
     subscribe: Iscriviti

@@ -8,6 +8,10 @@ page:
     previous_page: Previous Page
     share_this: Share this
 
+page_404:
+    page_not_found: The requested page could not be found.
+    back_to_blog: Back to the bLog
+
 newsletter:
     email_address: Email address
     subscribe: Subscribe
