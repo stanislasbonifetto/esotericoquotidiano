@@ -38,30 +38,38 @@
                 <h4 class="widget__title">Scrivimi cosa ne pensi</h4>
             </div>
             <form id="feedback-form" action="{{ site.get-form-action-url }}" method="POST">
-            <div class="newsletter-group">
-                <div class="newsletter-group-top">
+            <div class="comments-group">
+                <div class="comments-group-top">
                     <input type="hidden" name="article" value="{{page.title}}">
-                    <label class="required" for="rating">Ti e' piaciuto?</label>
-                    <fieldset class="rating">
-                        <input type="radio" id="star5" name="rating" value="5" required/><label class = "full" for="star5" title="Awesome - 5 stars"></label>
-                        <input type="radio" id="star4half" name="rating" value="4 and a half" required/><label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
-                        <input type="radio" id="star4" name="rating" value="4" required/><label class = "full" for="star4" title="Pretty good - 4 stars"></label>
-                        <input type="radio" id="star3half" name="rating" value="3 and a half" required/><label class="half" for="star3half" title="Meh - 3.5 stars"></label>
-                        <input type="radio" id="star3" name="rating" value="3" required/><label class = "full" for="star3" title="Meh - 3 stars"></label>
-                        <input type="radio" id="star2half" name="rating" value="2 and a half" required/><label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
-                        <input type="radio" id="star2" name="rating" value="2" required/><label class = "full" for="star2" title="Kinda bad - 2 stars"></label>
-                        <input type="radio" id="star1half" name="rating" value="1 and a half" required/><label class="half" for="star1half" title="Meh - 1.5 stars"></label>
-                        <input type="radio" id="star1" name="rating" value="1" required/><label class = "full" for="star1" title="Sucks big time - 1 star"></label>
-                        <input type="radio" id="starhalf" name="rating" value="half" required/><label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
-                    </fieldset>
-                    <label class="" for="name">Nome</label>
-                    <input  class="" type="text" name="name" placeholder="Nome" required/>
-                    <label class="required" for="email">Email address</label>
-                    <input  class="email" type="email" name="email" placeholder="Email Address" required/>
-                    <label class="" for="feedback">Scrivi un commento</label>
-                    <textarea class="required" rows="4" cols="50" name="feedback" required></textarea>
-                    <label class="" for="newsletter">Iscriviti alla newsletter</label>
-                    <input  class="required" type="checkbox" name="newsletter" value="newsletter" checked/>
+                    
+                    <!-- <label class="" for="name">Nome</label> -->
+                    <input  class="comments-item" type="text" name="name" placeholder="Nome" required/>
+                    <!-- <label class="required" for="email">Email address</label> -->
+                    <input  class="email comments-item" type="email" name="email" placeholder="Email Address" required/>
+                    <!-- <label class="" for="feedback">Scrivi un commento</label> -->
+                    <textarea class="required comments-item" style="height: 100px;" rows="4" cols="50" name="feedback" placeholder="Scrivi un commento" required></textarea>
+                    
+                    <div class="inline-content">
+                        <div>
+                            <label class="required comments-item" for="rating">Ti e' piaciuto?</label>
+                            <fieldset class="rating comments-item">
+                                <input type="radio" id="star5" name="rating" value="5" required/><label class = "full" for="star5" title="Awesome - 5 stars"></label>
+                                <input type="radio" id="star4half" name="rating" value="4 and a half" required/><label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
+                                <input type="radio" id="star4" name="rating" value="4" required/><label class = "full" for="star4" title="Pretty good - 4 stars"></label>
+                                <input type="radio" id="star3half" name="rating" value="3 and a half" required/><label class="half" for="star3half" title="Meh - 3.5 stars"></label>
+                                <input type="radio" id="star3" name="rating" value="3" required/><label class = "full" for="star3" title="Meh - 3 stars"></label>
+                                <input type="radio" id="star2half" name="rating" value="2 and a half" required/><label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
+                                <input type="radio" id="star2" name="rating" value="2" required/><label class = "full" for="star2" title="Kinda bad - 2 stars"></label>
+                                <input type="radio" id="star1half" name="rating" value="1 and a half" required/><label class="half" for="star1half" title="Meh - 1.5 stars"></label>
+                                <input type="radio" id="star1" name="rating" value="1" required/><label class = "full" for="star1" title="Sucks big time - 1 star"></label>
+                                <input type="radio" id="starhalf" name="rating" value="half" required/><label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+                            </fieldset>
+                        </div>
+                        <div>
+                            <label class="comments-item" for="newsletter">Iscriviti alla newsletter</label>
+                            <input  class="required comments-item checkmark" type="checkbox" name="newsletter" value="newsletter" checked/>
+                        </div>
+                    </div>
                 </div>
                 {% if site.g-re-captcha-site-key %}
                 <button class="newsletter-button g-recaptcha" 

@@ -1,7 +1,6 @@
 @import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
 .rating {
 	border: none;
-	float: left;
 	& > input {
 		display: none;
 	}
@@ -33,5 +32,58 @@
 .rating > label:hover ~ input:checked ~ label, 
 .rating > input:checked ~ label:hover ~ label {
 	color: #FFED85;
+}
+
+.comments-group-top {
+	display: grid;
+
+	.comments-item {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		height: 50px;
+		padding: 10px;
+	}
+	
+	input {
+		border-width: 1px;
+		border-color: lightgray;
+		border-radius: 5px;
+	}
+
+	textarea {
+		border-width: 1px;
+		border-color: lightgray;
+		border-radius: 5px;
+		height: 100px;
+		resize: none;
+	}
+
+	input:focus, textarea:focus {
+		border: none;
+		box-shadow: 0 0 5px gray;
+	}
+	
+	.inline-content {
+		padding-right: 10px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		div {
+			display: flex;
+		}
+
+		input:focus {
+			border: none;
+			box-shadow: none;
+		}
+		input:checked, textarea:checked {
+			background-color: black;
+		}
+
+		.rating {
+			padding-top: 5px;
+		}
+	}
 }
 
