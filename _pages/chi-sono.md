@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Chi sono
+permalink: /chi-sono/
 image: 'https://via.placeholder.com/1920x1080'
 ---
 
