@@ -31,7 +31,7 @@ hero-image: '/images/hp-top.jpg' #'https://via.placeholder.com/1920x1080'
 # Other icons can be found at https://ionicons.com
 footer-image: '/images/hp-top.jpg' # 'https://via.placeholder.com/1920x1080'
 contact:
-  - {name: "Instagram", icon: "ion-logo-instagram", link: "https://instagram.com"}
+  - {name: "Instagram", icon: "ion-logo-instagram", link: "https://www.instagram.com/esotericoquotidiano/", target: "_blank"}
   - {name: "Email", icon: "ion-ios-mail", link: "mailto:esotericoquotidiano@gmail.com"}
 
   # - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
