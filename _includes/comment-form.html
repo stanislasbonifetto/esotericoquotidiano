@@ -22,10 +22,10 @@
             var toggleButton = document.getElementById("comment-form-toggle-button");
 
             if (commentDiv.style.display === "none") {
-                commentDiv.style.display = "block";
+                $(commentDiv).slideDown("slow");
                 toggleButton.style.display = "none";
             } else {
-                commentDiv.style.display = "none";
+                $(commentDiv).slideUp("slow");
                 toggleButton.style.display = "block";
             }
         }
