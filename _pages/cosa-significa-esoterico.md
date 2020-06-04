@@ -2,7 +2,7 @@
 layout: page
 title: Cosa significa esoterico
 permalink: /cosa-significa-esoterico/
-image: 'https://via.placeholder.com/1920x1080'
+image: '/images/cosa-significa-esoterico-bg.jpg'
 home_page: true
 ---
 
