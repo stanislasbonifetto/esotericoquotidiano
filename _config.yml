@@ -22,16 +22,16 @@ author:
 hero: true # To disable hero section use value false
 hero-title: Esoterico Quotidiano
 hero-description: un percorso per chi si fa domande
-hero-image: '/images/hp-top.jpg' #'https://via.placeholder.com/1920x1080'
+hero-image: '/images/hp-bg.jpg' #'https://via.placeholder.com/1920x1080'
 
 
 #-------------------------------
 # Footer section
 # Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
-footer-image: '/images/hp-top.jpg' # 'https://via.placeholder.com/1920x1080'
+footer-image: '/images/hp-bg.jpg' # 'https://via.placeholder.com/1920x1080'
 contact:
-  - {name: "Instagram", icon: "ion-logo-instagram", link: "https://instagram.com"}
+  - {name: "Instagram", icon: "ion-logo-instagram", link: "https://www.instagram.com/esotericoquotidiano/", target: "_blank"}
   - {name: "Email", icon: "ion-ios-mail", link: "mailto:esotericoquotidiano@gmail.com"}
 
   # - {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}

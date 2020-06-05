@@ -33,13 +33,13 @@ layout: default
         </div>
 
         <div class="author-image-box">
-          <a href="{{site.baseurl}}/about/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})" aria-label="{{site.author.name}}"></a>
-          <a class="author__name" href="{{site.baseurl}}/about/">{{site.author.name}}</a>
+          <a href="{{site.baseurl}}/chi-sono/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})" aria-label="{{site.author.name}}"></a>
+          <a class="author__name" href="{{site.baseurl}}/chi-sono/">{{site.author.name}}</a>
         </div>
 
         <div class="post__share">
           <div class="share__head">
-            <div class="share__title">Share this</div>
+            <div class="share__title">Condividi</div>
           </div>
           <ul class="share__list list-reset">
             <li class="share__item">
@@ -75,13 +75,13 @@ layout: default
         <div class="post__navigation">
           {% if page.previous.url %}
             <div class="prev">
-              <a class="post__nav post__nav__prev" href="{{page.previous.url}}"><i class="ion ion-ios-arrow-back"></i> Previous Page</a>
+              <a class="post__nav post__nav__prev" href="{{page.previous.url}}"><i class="ion ion-ios-arrow-back"></i> Precedente</a>
               <h4 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h4>
             </div>
           {% endif %}
           {% if page.next.url %}
           <div class="next">
-            <a class="post__nav post__nav__next" href="{{page.next.url}}">Next Page <i class="ion ion-ios-arrow-forward"></i></a>
+            <a class="post__nav post__nav__next" href="{{page.next.url}}">Successiva <i class="ion ion-ios-arrow-forward"></i></a>
             <h4 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h4>
           </div>
           {% endif %}

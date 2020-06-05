@@ -22,7 +22,7 @@
               </div>
               <div class="nav-grid">
                 <div class="nav-grid__item">
-                  <h2 class="nav-grid__title">Latest Story</h2>
+                  <h2 class="nav-grid__title">Ultimi articoli</h2>
                   <div class="widget-story">
                     {% for post in site.posts limit:4 %}
                       <div class="widget-story__posts">
@@ -40,11 +40,11 @@
                 </div>
                 
                 <div class="nav-grid__item">
-                  <h2 class="nav-grid__title">Hey!</h2>
+                  <h2 class="nav-grid__title">Ciao!</h2>
                     <div class="widget-about">
-                      <div class="avatar"><a href="{{site.baseurl}}/about" class="avatar__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})"></a></div>
+                      <div class="avatar"><a href="{{site.baseurl}}/chi-sono" class="avatar__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})"></a></div>
                       <p class="author-bio">{{site.author.bio}}</p>
-                      <a href="{{site.baseurl}}/about" class="author-btn">Read more</a>
+                      <a href="{{site.baseurl}}/chi-sono" class="author-btn">Continua a leggere</a>
                     </div>
                 </div>
                 
@@ -55,7 +55,7 @@
                         <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
                       </li>
                       {% for page in site.pages %}
-                        {% unless page.name == 'tags.html' or page.name == '404.html' %}
+                        {% unless page.name == 'tags.html' or page.name == '404.html' or page.name == 'styleguide.md' %}
                           {% if page.title %}
                           <li class="nav__item">
                             <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>

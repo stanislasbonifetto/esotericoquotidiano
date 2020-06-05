@@ -5,13 +5,13 @@
         </div>
         <form class="newsletter-form validate" action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}"
         method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank">
-        <div class="newsletter-group">
-            <div class="newsletter-group-top">
-                <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-                <input class="newsletter-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Email Address" required>
+            <div class="newsletter-group">
+                <div class="newsletter-group-top">
+                    <label class="screen-reader-text" for="mce-EMAIL">Indirizzo email</label>
+                    <input class="newsletter-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Indirizzo email" required>
+                </div>
+                <input class="newsletter-button" id="membedded-subscribe" type="submit" name="subscribe" value="Iscriviti">
             </div>
-            <input class="newsletter-button" id="membedded-subscribe" type="submit" name="subscribe" value="Subscribe">
-        </div>    
         </form>
     </div>
 {% endif %}

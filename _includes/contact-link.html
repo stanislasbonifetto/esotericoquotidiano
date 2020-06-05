@@ -5,7 +5,7 @@
     </div>
     <ul class="contact__list list-reset">
       {% for contact in site.contact %}
-        <a type="button" class="contact-button contact__link" href="{{contact.link}}"><i class="ion {{contact.icon}}"></i> <span>{{contact.name}}</span></a>
+        <a type="button" class="contact-button contact__link" href="{{contact.link}}" target="{{contact.target}}"><i class="ion {{contact.icon}}"></i> <span>{{contact.name}}</span></a>
       {% endfor %}
     </ul>
   </div>
