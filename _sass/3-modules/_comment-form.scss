@@ -48,19 +48,31 @@
 		border-width: 1px;
 		border-color: lightgray;
 		border-radius: 5px;
+		width: 100%;
 	}
 
 	textarea {
 		border-width: 1px;
 		border-color: lightgray;
 		border-radius: 5px;
-		height: 100px;
+		height: 100%;
 		resize: none;
+		width: 100%;
 	}
 
 	input:focus, textarea:focus {
 		border: none;
-		box-shadow: 0 0 5px gray;
+		box-shadow: 0 0 5px $gray;
+	}
+
+	.required-input {
+		input:required:invalid, textarea:required:invalid {
+			border-color: $brand-color;
+		}
+
+		input:required:valid, textarea:required:valid {
+			border-color: lightgray;
+		}
 	}
 	
 	.inline-content {
@@ -77,8 +89,9 @@
 			border: none;
 			box-shadow: none;
 		}
-		input:checked, textarea:checked {
-			background-color: black;
+
+		.checkmark {
+			width: 15px;
 		}
 
 		.rating {

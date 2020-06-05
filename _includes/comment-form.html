@@ -3,12 +3,16 @@
     {% if site.g-re-captcha-site-key %}
     <script>
         (function () {
-        var d = document, s = d.createElement('script');
-        s.src = 'https://www.google.com/recaptcha/api.js';
-        (d.head || d.body).appendChild(s);
+            var d = document, s = d.createElement('script');
+            s.src = 'https://www.google.com/recaptcha/api.js';
+            (d.head || d.body).appendChild(s);
         })();
     </script>
     <script>
+        function onFocusOut(element) {
+            element.classList.add('required-input');
+        }
+        
         function onSubmit(token) {
             var form = document.getElementById('feedback-form');
             if(form.checkValidity()){
@@ -42,13 +46,18 @@
                 <div class="comments-group-top">
                     <input type="hidden" name="article" value="{{page.title}}">
                     
-                    <!-- <label class="" for="name">Nome</label> -->
-                    <input  class="comments-item" type="text" name="name" placeholder="Nome" required/>
-                    <!-- <label class="required" for="email">Email address</label> -->
-                    <input  class="email comments-item" type="email" name="email" placeholder="Email Address" required/>
-                    <!-- <label class="" for="feedback">Scrivi un commento</label> -->
-                    <textarea class="required comments-item" style="height: 100px;" rows="4" cols="50" name="feedback" placeholder="Scrivi un commento" required></textarea>
+                    <div onfocusout="onFocusOut(this)">
+                        <input id="name" class="comments-item" type="text" name="name" placeholder="Nome" required/>
+                    </div>
                     
+                    <div onfocusout="onFocusOut(this)">
+                        <input  class="email comments-item" type="email" name="email" placeholder="Email Address" required/>
+                    </div>
+            
+                    <div onfocusout="onFocusOut(this)">
+                        <textarea class="required comments-item" style="height: 100px;" rows="4" cols="50" name="feedback" placeholder="Scrivi un commento" required></textarea>
+                    </div>
+
                     <div class="inline-content">
                         <div>
                             <label class="required comments-item" for="rating">Ti e' piaciuto?</label>
@@ -75,7 +84,8 @@
                 <button class="newsletter-button g-recaptcha" 
                     data-sitekey="{{ site.g-re-captcha-site-key }}" 
                     data-callback="onSubmit"
-                    type="submit">Invia</button>
+                    type="submit"
+                    style="margin-top: 20px">Invia</button>
                 {% else %}
                 <button class="" type="submit">Invia</button>
                 {% endif %}
