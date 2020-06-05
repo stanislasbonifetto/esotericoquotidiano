@@ -5,7 +5,7 @@
     </div>
     <ul class="contact__list list-reset">
       {% for contact in site.contact %}
-    <button type="button" class="contact-button contact__link" onclick="window.location = '{{contact.link}}'"><i class="ion {{contact.icon}}"></i> {{contact.name}}</button>
+        <a type="button" class="contact-button contact__link" href="{{contact.link}}"><i class="ion {{contact.icon}}"></i> <span>{{contact.name}}</span></a>
       {% endfor %}
     </ul>
   </div>
