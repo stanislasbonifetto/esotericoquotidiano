@@ -47,7 +47,7 @@ contact:
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 userID: 6716400487
 accessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
 
