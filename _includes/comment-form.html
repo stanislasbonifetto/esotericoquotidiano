@@ -1,5 +1,4 @@
-
-{% if site.get-form-action-url %}
+{% if (site.get-form-action-url and page.comment_enabled == false) %}
     {% if site.g-re-captcha-site-key %}
     <script>
         (function () {
