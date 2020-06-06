@@ -45,12 +45,14 @@ Then you write your post following the [styleguide](https://www.esotericoquotidi
 Create a md file in folder `_page` with this syntax `my-page.md`.
 
 The file have to start with:
+```
 ---
 layout: page
 title: My page
 permalink: /my-page/
 image: 'https://via.placeholder.com/1500x2000'
 ---
+```
 
 Then you write your post following the [styleguide](https://www.esotericoquotidiano.it/styleguide/)
 
