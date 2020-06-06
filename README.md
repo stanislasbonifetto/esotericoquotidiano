@@ -12,7 +12,7 @@
 1. Open to [https://github.com/stanislasbonifetto/esotericoquotidiano](https://github.com/stanislasbonifetto/
 esotericoquotidiano)
 1. Creare a new branch from master seaching the new branch
-![](github-new-branch.png)
+![](doc_images/github-new-branch.png)
 
 **local**
 ```
@@ -23,6 +23,10 @@ git checkout -b my_post
 
 ### 2 - Create new post or page
 
+#### Post
+
+
+#### Page
 
 
 ### 3 - Run in local
