@@ -9,14 +9,16 @@
         })();
     </script>
     <script>
-        function onFocusOut(element) {
+        function showValidationResult(element) {
             element.classList.add('required-input');
         }
         
         function onSubmit(token) {
             var form = document.getElementById('feedback-form');
-            if(form.checkValidity()){
+            if(form.checkValidity()) {
                 form.submit();
+            } else {
+                showValidationResult(document.getElementById("comments-group-top"));
             }
         }
     </script>
@@ -43,18 +45,18 @@
             </div>
             <form id="feedback-form" action="{{ site.get-form-action-url }}" method="POST">
             <div class="comments-group">
-                <div class="comments-group-top">
+                <div id="comments-group-top" class="comments-group-top">
                     <input type="hidden" name="article" value="{{page.title}}">
                     
-                    <div onfocusout="onFocusOut(this)">
+                    <div onfocusout="showValidationResult(this)">
                         <input id="name" class="comments-item" type="text" name="name" placeholder="Nome" required/>
                     </div>
                     
-                    <div onfocusout="onFocusOut(this)">
+                    <div onfocusout="showValidationResult(this)">
                         <input  class="email comments-item" type="email" name="email" placeholder="Email Address" required/>
                     </div>
             
-                    <div onfocusout="onFocusOut(this)">
+                    <div onfocusout="showValidationResult(this)">
                         <textarea class="required comments-item" style="height: 100px;" rows="4" cols="50" name="feedback" placeholder="Scrivi un commento" required></textarea>
                     </div>
 
@@ -62,16 +64,16 @@
                         <div>
                             <label class="required comments-item" for="rating">Ti e' piaciuto?</label>
                             <fieldset class="rating comments-item">
-                                <input type="radio" id="star5" name="rating" value="5" required/><label class = "full" for="star5" title="Awesome - 5 stars"></label>
-                                <input type="radio" id="star4half" name="rating" value="4 and a half" required/><label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
-                                <input type="radio" id="star4" name="rating" value="4" required/><label class = "full" for="star4" title="Pretty good - 4 stars"></label>
-                                <input type="radio" id="star3half" name="rating" value="3 and a half" required/><label class="half" for="star3half" title="Meh - 3.5 stars"></label>
-                                <input type="radio" id="star3" name="rating" value="3" required/><label class = "full" for="star3" title="Meh - 3 stars"></label>
-                                <input type="radio" id="star2half" name="rating" value="2 and a half" required/><label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
-                                <input type="radio" id="star2" name="rating" value="2" required/><label class = "full" for="star2" title="Kinda bad - 2 stars"></label>
-                                <input type="radio" id="star1half" name="rating" value="1 and a half" required/><label class="half" for="star1half" title="Meh - 1.5 stars"></label>
-                                <input type="radio" id="star1" name="rating" value="1" required/><label class = "full" for="star1" title="Sucks big time - 1 star"></label>
-                                <input type="radio" id="starhalf" name="rating" value="half" required/><label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+                                <input type="radio" id="star5" name="rating" value="5" required/><label class = "full" for="star5" title="Fantastico - 5 stelle"></label>
+                                <input type="radio" id="star4half" name="rating" value="4.5" required/><label class="half" for="star4half" title="Interessante - 4.5 stelle"></label>
+                                <input type="radio" id="star4" name="rating" value="4" required/><label class = "full" for="star4" title="Interessante - 4 stelle"></label>
+                                <input type="radio" id="star3half" name="rating" value="3.5" required/><label class="half" for="star3half" title="Niente male - 3.5 stelle"></label>
+                                <input type="radio" id="star3" name="rating" value="3" required/><label class = "full" for="star3" title="Niente male - 3 stelle"></label>
+                                <input type="radio" id="star2half" name="rating" value="2.5" required/><label class="half" for="star2half" title="Non mi è piaciuto - 2.5 stelle"></label>
+                                <input type="radio" id="star2" name="rating" value="2" required/><label class = "full" for="star2" title="Non mi è piaciuto - 2 stelle"></label>
+                                <input type="radio" id="star1half" name="rating" value="1.5" required/><label class="half" for="star1half" title="Terribile - 1.5 stelle"></label>
+                                <input type="radio" id="star1" name="rating" value="1" required/><label class = "full" for="star1" title="Terribile - 1 stelle"></label>
+                                <input type="radio" id="starhalf" name="rating" value="0.5" required/><label class="half" for="starhalf" title="Terribile - 0.5 stelle"></label>
                             </fieldset>
                         </div>
                         <div>

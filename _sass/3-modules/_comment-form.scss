@@ -65,15 +65,7 @@
 		box-shadow: 0 0 5px $gray;
 	}
 
-	.required-input {
-		input:required:invalid, textarea:required:invalid {
-			border-color: $brand-color;
-		}
-
-		input:required:valid, textarea:required:valid {
-			border-color: lightgray;
-		}
-	}
+	
 	
 	.inline-content {
 		padding-right: 10px;
@@ -97,6 +89,20 @@
 		.rating {
 			padding-top: 5px;
 		}
+	}
+}
+
+.required-input {
+	input:required:invalid, textarea:required:invalid {
+		border-color: $brand-color;
+	}
+
+	input:required:invalid + .full {
+		text-shadow: 0px 0px 3px red;
+	}
+
+	input:required:valid, textarea:required:valid {
+		border-color: lightgray;
 	}
 }
 
