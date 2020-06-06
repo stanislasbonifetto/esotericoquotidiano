@@ -32,6 +32,10 @@
   .footer__inner {
     position: relative;
     z-index: 1;
+
+    .row {
+      margin-top: 200px;
+    }
   }
 
   @media only screen and (max-width: $desktop) {
@@ -62,6 +66,8 @@
 
 /* Newsletter */
 .newsletter {
-  margin: 200px 0 0;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }

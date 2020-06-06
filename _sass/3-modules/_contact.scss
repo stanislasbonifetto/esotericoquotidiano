@@ -1,7 +1,8 @@
 /* Contact */
 .contact {
-  margin: 40px 0 0;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   .contact__item {
     display: inline-block;
     margin: 0 20px;
@@ -12,6 +13,17 @@
     @media only screen and (max-width: $mobile) {
       margin: 0 3px;
     }
+  }
+
+  .contact-button {
+    background: transparent;
+    border-radius: 5px;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    outline: none;
+    padding: 8px 24px;
   }
 
   .contact__link {
