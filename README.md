@@ -1,4 +1,5 @@
 # Esoterico quotidiano
+This is the code of the website [https://www.esotericoquotidiano.it/](https://www.esotericoquotidiano.it/)
 
 ## Requirements
  * [git](https://git-scm.com/) - [Install git for mac](https://git-scm.com/download/mac)
@@ -6,6 +7,9 @@
 
 ## Run in local
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+
+## Deploy
+The project use Jekyll and [Github Pages](https://pages.github.com/)
 
 ## How to publish a new post or page
 
