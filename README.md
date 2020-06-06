@@ -100,7 +100,12 @@ When you have push all the changes in your branch and push on Github and you are
 
 [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-### 6 - Ask to someone to review your PR
+### 6 - Check your changes
+It's good review your changes before merge in `master`.
+The easy way is to navigate your PR and `Files changed` tab.
+[https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request)
+
+### 7 - Ask to someone to review your PR
 Now that your PR is read, ask to someone to review it.
 
 # Original Template
