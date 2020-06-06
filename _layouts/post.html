@@ -31,12 +31,11 @@ layout: default
         <div class="post__content">
           {{ content }}
         </div>
-
+        {% include comment-form.html %}
         <div class="author-image-box">
           <a href="{{site.baseurl}}/chi-sono/" class="author__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})" aria-label="{{site.author.name}}"></a>
           <a class="author__name" href="{{site.baseurl}}/chi-sono/">{{site.author.name}}</a>
         </div>
-
         <div class="post__share">
           <div class="share__head">
             <div class="share__title">Condividi</div>

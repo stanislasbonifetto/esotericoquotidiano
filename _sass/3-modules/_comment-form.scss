@@ -1,0 +1,108 @@
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+.rating {
+	border: none;
+	& > input {
+		display: none;
+	}
+	& > label {
+		color: #ddd;
+		float: right;
+		&:before {
+			margin: 5px;
+			font-size: 1.25em;
+			font-family: FontAwesome;
+			display: inline-block;
+			content: "\f005";
+		}
+	}
+	& > .half {
+		&:before {
+			content: "\f089";
+			position: absolute;
+		}
+	}
+}
+.rating > input:checked ~ label, 
+.rating:not(:checked) > label:hover, 
+.rating:not(:checked) > label:hover ~ label {
+	color: #FFD700;
+}
+.rating > input:checked + label:hover, 
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label, 
+.rating > input:checked ~ label:hover ~ label {
+	color: #FFED85;
+}
+
+.comments-group-top {
+	display: grid;
+
+	.comments-item {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		height: 50px;
+		padding: 10px;
+	}
+	
+	input {
+		border-width: 1px;
+		border-color: lightgray;
+		border-radius: 5px;
+		width: 100%;
+	}
+
+	textarea {
+		border-width: 1px;
+		border-color: lightgray;
+		border-radius: 5px;
+		height: 100%;
+		resize: none;
+		width: 100%;
+	}
+
+	input:focus, textarea:focus {
+		border: none;
+		box-shadow: 0 0 5px $gray;
+	}
+
+	
+	
+	.inline-content {
+		padding-right: 10px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		div {
+			display: flex;
+		}
+
+		input:focus {
+			border: none;
+			box-shadow: none;
+		}
+
+		.checkmark {
+			width: 15px;
+		}
+
+		.rating {
+			padding-top: 5px;
+		}
+	}
+}
+
+.required-input {
+	input:required:invalid, textarea:required:invalid {
+		border-color: $brand-color;
+	}
+
+	input:required:invalid + .full {
+		text-shadow: 0px 0px 3px red;
+	}
+
+	input:required:valid, textarea:required:valid {
+		border-color: lightgray;
+	}
+}
+

@@ -46,6 +46,15 @@ contact:
 
 
 #-------------------------------
+# Comment Section (GetForm)
+get-form-action-url: "https://getform.io/f/392e5737-3625-452c-bd3d-8b2b77626509"
+
+
+#-------------------------------
+# Google reCAPTCHA
+g-re-captcha-site-key: "6Ldga_sUAAAAAOTvruuIPKbcg-BfgmJZqVpESzDR"
+
+#-------------------------------
 # Instagram Feed
 instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 userID: 6716400487
