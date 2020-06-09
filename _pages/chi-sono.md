@@ -8,15 +8,22 @@ image: '/images/chi-sono-bg.jpg'
  ![](/images/chi-sono.jpg)
   *Emiliano Bonifetto*
 
-Hi, my name is Emiliano Bonifetto. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Sono fondamentalmente un “entronauta”, <br />
+una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi <br />
+per trovare il senso della propria vita.<br />
+Nel frattempo mi sono guadagnato da vivere nel mondo del commercio, <br />
+come semplice agente di alcune piccole aziende di design prima <br />
+e come responsabile commerciale di una di esse poi.<br />
+A lato di tutto ciò ho sviluppato la mia qualifica <br />
+di counselor nella rieducazione dei procedimenti mentali.<br />
+La mia passione è sempre stata mettere in relazione elementi diversi ma consonanti: <br />
+persone con persone, persone con concetti, persone con oggetti, <br />
+per cui si potrebbe dire che, se fossi un organo del corpo, sarei una sinapsi.<br />
+Sono nato a Torino nel 1953, oggi vivo gioiosamente nei dintorni di Lucca.<br />
+Uno dei motti che mi sono più cari è quello che disse Annibale <br />
+mentre era in procinto di attraversare le Alpi con esercito ed elefanti: <br />
+«Noi troveremo una strada. O ne apriremo una nuova».<br />
 
 ***
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
-
-***
-
-*Thank You for reading!*
+*Grazie per aver letto!*

@@ -12,10 +12,9 @@ url: "https://www.esotericoquotidiano.it" # the base hostname & protocol for you
 # Author Settings
 author:
   name: Emiliano Bonifetto
-  bio: Hi, my name is Emiliano Bonifetto. I like being at the center of events, being free and enjoying every moment.
+  bio: Ciao il mio nome e' Emiliano Bonifetto. Sono fondamentalmente un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
   image: 'https://via.placeholder.com/1920x1080'
   avatar: '/images/avatar.jpg'
-
 
 #-------------------------------
 # Hero section
