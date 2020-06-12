@@ -40,6 +40,10 @@
       margin: 0;
     }
   }
+  @media only screen and (max-width: $tablet) {
+    background-position: center;
+    background-attachment: inherit;
+  }
   @media only screen and (max-width: $mobile) {
     margin-top: 30px;
   }
