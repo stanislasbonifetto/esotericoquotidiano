@@ -22,8 +22,14 @@
     width: 100%;
     margin-bottom: 20px;
     border: 1px solid white;
-    outline: none;
     padding: 8px 24px;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    -webkit-text-fill-color: white;
   }
 
   .contact__link {
