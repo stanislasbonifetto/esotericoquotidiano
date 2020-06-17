@@ -210,6 +210,33 @@
   }
 }
 
+/* Content */
+.post__content {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 20px;
+
+  .content__read__more {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 200px;
+    background-image: linear-gradient(rgba(255,0,0,0), white);
+    cursor: pointer;
+
+    .widget__box {
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+
+      .widget__head::before {
+        z-index: 0;
+      }
+    }
+  }
+}
+
 /* Navigation */
 .post__navigation {
   display: flex;
