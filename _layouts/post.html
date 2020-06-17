@@ -6,7 +6,6 @@ layout: default
   <div class="post-image box-height" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
 </div>
 {% endif %}
-
 <div class="container">
   <div class="row">
     <div class="col col-8 col-d-10 col-m-12 push-d-1 push-m-0">
@@ -27,9 +26,15 @@ layout: default
           </div>
           <h1 class="post-title">{{ page.title | escape }}</h1>
         </div>
-
-        <div class="post__content">
+        <div id="post-content" class="post__content">
           {{ content }}
+          <div id="content-read-more" class="content__read__more" onclick="showFullText()">
+            <div class="widget__box">
+              <div class="widget__head">
+                <h4 class="widget__title">Leggi di più</h4>
+              </div>
+            </div>
+          </div>
         </div>
         {% include comment-form.html %}
         <div class="author-image-box">
@@ -98,3 +103,20 @@ layout: default
 
   </div>
 </div>
+<script>
+  (function () {
+    hideHalfText();
+  })();
+  function hideHalfText() {
+    var content = document.getElementById("post-content");
+    content.style.maxHeight = content.offsetHeight / 2 + "px";
+  }
+  function showFullText() {
+    var content = document.getElementById("post-content");
+    content.style.removeProperty('max-height');
+    content.style.removeProperty('overflow');
+    
+    document.getElementById("content-read-more").style.display = "none";
+  }
+  
+</script>
