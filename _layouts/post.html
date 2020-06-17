@@ -105,11 +105,14 @@ layout: default
 </div>
 <script>
   (function () {
-    hideHalfText();
+    if ("{{page.tags}}".includes("capitoli")) {
+      hideHalfText();
+    }
   })();
   function hideHalfText() {
     var content = document.getElementById("post-content");
-    content.style.maxHeight = content.offsetHeight / 2 + "px";
+    content.style.maxHeight = content.offsetHeight / 3 * 2 + "px";
+    document.getElementById("content-read-more").style.display = "block";
   }
   function showFullText() {
     var content = document.getElementById("post-content");
