@@ -27,14 +27,18 @@ layout: default
           <h1 class="post-title">{{ page.title | escape }}</h1>
         </div>
         <div id="post-content" class="post__content">
-          {{ content }}
-          <div id="content-read-more" class="content__read__more" onclick="showFullText()">
-            <div class="widget__box">
-              <div class="widget__head">
-                <h4 class="widget__title">Leggi di più</h4>
+          {% if page.excerpt != content %}
+            {{ page.excerpt }}
+            <div id="content-read-more" class="content__read__more" onclick="showFullText()">
+              <div class="widget__box">
+                <div class="widget__head">
+                  <h4 class="widget__title">Leggi di più</h4>
+                </div>
               </div>
             </div>
-          </div>
+          {% else %}
+            {{ content }}
+          {% endif %}
         </div>
         {% include comment-form.html %}
         <div class="author-image-box">
@@ -104,22 +108,9 @@ layout: default
   </div>
 </div>
 <script>
-  (function () {
-    if ("{{page.tags}}".includes("capitoli")) {
-      hideHalfText();
-    }
-  })();
-  function hideHalfText() {
-    var content = document.getElementById("post-content");
-    content.style.maxHeight = content.offsetHeight / 3 * 2 + "px";
-    document.getElementById("content-read-more").style.display = "block";
-  }
   function showFullText() {
     var content = document.getElementById("post-content");
-    content.style.removeProperty('max-height');
-    content.style.removeProperty('overflow');
-    
+    content.innerHTML = `{{content}}`;
     document.getElementById("content-read-more").style.display = "none";
   }
-  
 </script>

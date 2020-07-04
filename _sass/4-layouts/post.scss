@@ -214,10 +214,9 @@
 .post__content {
   position: relative;
   overflow: hidden;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 
   .content__read__more {
-    display: none;
     position: absolute;
     left: 0;
     right: 0;
@@ -233,6 +232,10 @@
 
       .widget__head::before {
         z-index: 0;
+      }
+
+      .widget__title {
+        margin-bottom: 0px;
       }
     }
   }
