@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Come e' nato il libro
+title: Com'è nato il libro
 permalink: /come-e-nato-il-libro/
 image: '/images/come-e-nato-il-libro-bg.jpg'
 home_page: true
