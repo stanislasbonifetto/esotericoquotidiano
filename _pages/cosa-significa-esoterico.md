@@ -6,15 +6,59 @@ image: '/images/cosa-significa-esoterico-bg.jpg'
 home_page: true
 ---
 
-Hi, my name is Caitlin Johnson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Molte parole nascono in un posto ma poi, cammina cammina, si ritrovano in un altro, <br/>
+e quasi nessuno si ricorda più da dove erano partite.<br/>
+È quello che è accaduto a “esoterico”.<br/>
+Se digitate su Google questo temine<br/>
+vedrete comparire una serie di significati che vanno<br/>
+dal *“destinato a una stretta cerchia di iniziati, per estensione misterioso, oscuro”* <br/>
+al *“detto dell’insegnamento riservato dagli antichi filosofi greci ai soli discepoli”* <br/>
+al *“proprio di una dottrina occulta, misteriosofico”,* <br/>
+fino al *“incomprensibile (o quasi) ai più”.* <br/>
+Solo se cercate più a fondo la sua etimologia<br/>
+approderete al significato originale (derivato dal greco antico),<br/>
+che è semplicemente “interiore”.
+
+Con il passare del tempo, nell’immaginario collettivo<br/>
+questo aggettivo ha dunque assunto un’accezione oscura, carica di mistero,<br/>
+in genere attribuito a sette e congreghe dai dubbi fini,<br/>
+o – nel migliore dei casi – a insegnamenti e dottrine quasi del tutto inaccessibili.<br/>
+È vero che gli antichi filosofi greci parlavano ai loro discepoli<br/>
+di un insegnamento che atteneva alla parte interiore dell’essere,<br/>
+poiché essi erano per lo più allievi del<br/>
+*“conosci te stesso e conoscerai l’universo intero e le sue leggi”.* <br/>
+Ed è altrettanto vero che l’insegnamento destinato agli iniziati<br/>
+non veniva divulgato – così com’era – a tutti.
+
+Cammina cammina, quello che non viene divulgato a tutti<br/>
+diviene facilmente “occulto” e come tale potenzialmente pericoloso,<br/>
+poiché sembra che sia nascosto ad arte,<br/>
+anche se in realtà è solo “non divulgato” (e non è la stessa cosa di “nascosto”).<br/>
+Vari movimenti occulti hanno poi utilizzato certi insegnamenti cosiddetti esoterici<br/>
+per acquisire un potere sugli altri esseri umani,<br/>
+avallando così l’interpretazione più negativa di questo termine.<br/>
+Tuttavia … esoterico vuol dire semplicemente interiore,<br/>
+e così ho inteso il suo significato nel comporre e intitolare questo libro.
+
+C’è un “aspetto interiore” nella nostra realtà quotidiana?<br/>
+Io credo di sì, o forse è più corretto dire: io lo vedo.<br/>
+E di questo ho cercato di parlare,<br/>
+prendendo argomenti del nostro vivere comune<br/>
+e mostrandone aspetti che non sono evidenti a un primo sguardo.<br/>
+Alcune cose potranno forse sembrare interessanti ad alcuni e banali ad altri,<br/>
+altre banali ad alcuni e interessanti ad altri.<br/>
+Penso comunque che qualcosa di inaspettato lo troverete tutti, qua o là.
+
+Quello che interessa me però non è sorprendervi,<br/>
+ma indurvi a entrare maggiormente nella profondità di ciascun tema.<br/>
+Poiché ogni elemento della nostra vita,<br/>
+se osservato a fondo con un po’ di intuizione<br/>
+e la mente libera da credenze e pregiudizi,<br/>
+ci può mostrare aspetti di grande profondità.<br/>
+E di profondità in profondità, possiamo andare alla ricerca<br/>
+della parte più autentica di noi stessi.<br/>
+E così – en passant – arrivare a conoscere *“l’universo e le sue leggi”.* <br/>
 
 ***
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
-
-***
-
-*Thank You for reading!*
+*Grazie per aver letto!*
