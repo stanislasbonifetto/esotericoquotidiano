@@ -3,6 +3,7 @@ This is the code of the website [https://www.esotericoquotidiano.it/](https://ww
 
 ## Requirements
  * [git](https://git-scm.com/) - [Install git for mac](https://git-scm.com/download/mac)
+ * [ruby](https://www.ruby-lang.org) - [Install ruby on mac](https://www.ruby-lang.org/en/documentation/installation/)
  * [Jekyll](https://jekyllrb.com/) 
 
 ## Run in local
