@@ -15,5 +15,5 @@ Ho fatto cose diverse, nel corso degli anni: mi sono guadagnato da vivere nel mo
 La mia passione è sempre stata mettere in relazione elementi diversi ma consonanti: persone con persone, persone con concetti, persone con oggetti, per cui si potrebbe dire che, se fossi un organo del corpo, sarei una sinapsi.
 
 Sono nato a Torino nel 1953, oggi vivo gioiosamente nei dintorni di Lucca, immerso nel silenzio e nel rispetto della natura.
-Come potete vedere sono abbastanza anziano e mi sovviene spesso una battuta di Marcello Marchesi, *«l’importante è che la morte ci colga vivi».*
+Come potete vedere sono abbastanza anziano e mi sovviene spesso una battuta di Marcello Marchesi, *«l’importante è che la morte ci colga vivi».*<br/>
 Sto facendo del mio meglio. E approfitto della luce del crepuscolo, che rende così nitidi e accesi i colori, per mettere in mostra serenamente le mie foglie mature, infuocate dai colori dell’autunno.
