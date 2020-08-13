@@ -11,16 +11,16 @@ url: "https://www.esotericoquotidiano.it" # the base hostname & protocol for you
 #-------------------------------
 # Author Settings
 author:
-  name: Emiliano Bonifetto
-  bio: Ciao il mio nome e' Emiliano Bonifetto. Sono fondamentalmente un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
+  name: Æmi Bonifetto
+  bio: Sono Æmi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
   image: 'https://via.placeholder.com/1920x1080'
-  avatar: '/images/avatar.jpg'
+  avatar: '/images/chi-sono.jpg'
 
 #-------------------------------
 # Hero section
 hero: true # To disable hero section use value false
 hero-title: Esoterico Quotidiano
-hero-description: un percorso per chi si fa domande
+hero-description: un viaggio per chi si pone <br/>le domande essenziali
 hero-image: '/images/hp-bg.jpg' #'https://via.placeholder.com/1920x1080'
 
 
