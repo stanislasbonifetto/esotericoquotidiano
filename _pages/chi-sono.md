@@ -8,29 +8,12 @@ image: '/images/chi-sono-bg.jpg'
  ![](/images/chi-sono.jpg)
   *Emiliano Bonifetto*
 
-Sono un “entronauta”, <br/>
-una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi <br/>
-per trovare il senso della propria vita. 
+Sono Æmi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
 
-Nel frattempo mi sono guadagnato da vivere nel mondo del commercio, <br/>
-come semplice agente di alcune piccole aziende di design prima <br/>
-e come responsabile commerciale di una di esse poi. <br/>
-A lato di tutto ciò ho sviluppato la mia qualifica <br/>
-di counselor nella rieducazione dei procedimenti mentali. <br/>
-La mia passione è sempre stata mettere in relazione elementi diversi ma consonanti: <br/>
-persone con persone, <br/>
-persone con concetti, <br/>
-persone con oggetti, <br/>
-per cui si potrebbe dire che, se fossi un organo del corpo, sarei una sinapsi.
+Ho fatto cose diverse, nel corso degli anni: mi sono guadagnato da vivere nel mondo del commercio, come semplice agente di alcune piccole aziende di design prima e come responsabile commerciale di una di esse poi, e ho trovato il tempo di sviluppare una qualifica di counselor nella rieducazione dei procedimenti mentali.
 
-Sono nato a Torino nel 1953, <br/>
-oggi vivo gioiosamente nei dintorni di Lucca, <br/>
-immerso nel silenzio e nel rispetto della natura. 
+La mia passione è sempre stata mettere in relazione elementi diversi ma consonanti: persone con persone, persone con concetti, persone con oggetti, per cui si potrebbe dire che, se fossi un organo del corpo, sarei una sinapsi.
 
-Uno dei motti che mi sono più cari è quello che disse Annibale <br/>
-mentre era in procinto di attraversare le Alpi con esercito ed elefanti: <br/>
-«Noi troveremo una strada. O ne apriremo una nuova».
-
-***
-
-*Grazie per aver letto!*
+Sono nato a Torino nel 1953, oggi vivo gioiosamente nei dintorni di Lucca, immerso nel silenzio e nel rispetto della natura.
+Come potete vedere sono abbastanza anziano e mi sovviene spesso una battuta di Marcello Marchesi, «l’importante è che la morte ci colga vivi».
+Sto facendo del mio meglio. E approfitto della luce del crepuscolo, che rende così nitidi e accesi i colori, per mettere in mostra serenamente le mie foglie mature, infuocate dai colori dell’autunno.
