@@ -25,6 +25,6 @@ E allora cercano … domandano … indagano …
 
 La Grande Famiglia è – per me – l’insieme di tutti questi “alcuni”, sparsi in tutto il mondo, appartenenti a tutte le etnie, a tutte le età, a tutte le confessioni … Una stirpe di esseri umani del tutto trasversale.<br/>
 Sono quelli che si pongono le domande essenziali. Quelli che intuiscono nel loro cuore la verità di ciò che diceva Ermete Trismegisto più di duemila anni fa:<br/>
-“Di tutto il creato, l'uomo (e la donna, ovviamente) è l'unico essere duplice: mortale secondo la sua corporeità, immortale secondo la sua essenza”.
+*“Di tutto il creato, l'uomo (e la donna, ovviamente) è l'unico essere duplice: mortale secondo la sua corporeità, immortale secondo la sua essenza”.*
 
-Questa “essenza” è quanto di più nobile possediamo. Si dice che sia la radice stessa della nostra vita, ed è anche il suo fine.
+Questa “essenza” è quanto di più nobile possediamo. Si dice che sia la radice stessa della nostra vita, e anche il suo fine.
