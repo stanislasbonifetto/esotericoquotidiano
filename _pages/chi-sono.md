@@ -10,7 +10,7 @@ image: '/images/chi-sono-bg.jpg'
 
 Sono Æmi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
 
-Ho fatto cose diverse, nel corso degli anni: mi sono guadagnato da vivere nel mondo del commercio, come semplice agente di alcune piccole aziende di design prima e come responsabile commerciale di una di esse poi, e ho trovato il tempo di sviluppare una qualifica di counselor nella rieducazione dei procedimenti mentali.
+Ho fatto cose diverse, nel corso degli anni: mi sono guadagnato da vivere nel mondo del commercio, come semplice agente di alcune aziende di design prima e come responsabile commerciale di una di esse poi, e nel contempo ho sviluppato una qualifica di counselor nella rieducazione dei procedimenti mentali.
 
 La mia passione è sempre stata mettere in relazione elementi diversi ma consonanti: persone con persone, persone con concetti, persone con oggetti, per cui si potrebbe dire che, se fossi un organo del corpo, sarei una sinapsi.
 

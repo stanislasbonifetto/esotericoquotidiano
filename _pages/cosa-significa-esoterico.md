@@ -16,6 +16,6 @@ Cammina cammina, quello che non viene divulgato a tutti diviene facilmente “oc
 Vari movimenti occulti hanno poi utilizzato certi insegnamenti cosiddetti esoterici per acquisire un potere sugli altri esseri umani, avallando così l’interpretazione più negativa di questo termine. Tuttavia … esoterico vuol dire semplicemente interiore, e così ho inteso il suo significato nel comporre e intitolare il libro.
 
 C’è un “aspetto interiore” nella nostra realtà quotidiana?
-Io credo di sì, o forse è più corretto dire che io lo vedo. E di questo ho cercato di parlare, prendendo argomenti del nostro vivere comune e mostrandone aspetti che non sono evidenti a un primo sguardo.<br/>
+Io credo di sì, o forse è più corretto dire che io lo cerco e lo vedo. E di questo ho cercato di parlare, prendendo argomenti del nostro vivere comune e mostrandone aspetti che non sono evidenti a un primo sguardo.<br/>
 Alcune cose potranno forse sembrare interessanti ad alcuni e banali ad altri, e viceversa. Penso comunque che qualcosa di inaspettato lo troverete tutti, qua o là. Quello che interessa me però non è sorprendervi, ma indurvi – se possibile – a entrare maggiormente nella profondità di ciascun tema. Poiché ogni elemento della nostra vita, se osservato a fondo con un po’ di intuizione e la mente libera da credenze e pregiudizi, ci può mostrare aspetti di grande profondità. E di profondità in profondità, possiamo andare alla ricerca della parte più autentica di noi stessi.<br/>
-E così – en passant – arrivare a conoscere *“l’universo e le sue leggi”.*
+E così – en passant – cominciare a conoscere *“l’universo e le sue leggi”.*
