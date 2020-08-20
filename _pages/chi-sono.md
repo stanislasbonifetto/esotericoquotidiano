@@ -16,4 +16,4 @@ Sono nato a Torino nel 1953, oggi vivo gioiosamente nei dintorni di Lucca, immer
 Come potete vedere sono abbastanza anziano e mi sovviene spesso una battuta di Marcello Marchesi, *«l’importante è che la morte ci colga vivi».*<br/>
 Sto facendo del mio meglio. E approfitto della luce del crepuscolo, che rende così nitidi e accesi i colori, per mettere in mostra serenamente le mie foglie mature, infuocate dai colori dell’autunno.
 
- ![](/images/chi-sono.jpg)
+ ![](/images/chi-sono-center.jpg)
