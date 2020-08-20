@@ -2,7 +2,7 @@
 layout: post
 title:  Vedere il nuovo
 date:   2020-08-20 17:00:00 +0100
-image:  'https://via.placeholder.com/1500x2000'
+image:  '/images/vedere-il-nuovo.jpg'
 tags: 
 ---
 

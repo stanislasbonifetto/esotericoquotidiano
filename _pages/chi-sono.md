@@ -2,11 +2,9 @@
 layout: page
 title: Chi sono
 permalink: /chi-sono/
-image: '/images/chi-sono-bg.jpg'
+image: '/images/chi-sono-top.jpg'
+comment_enabled: false
 ---
-
- ![](/images/chi-sono.jpg)
-  *Emiliano Bonifetto*
 
 Sono Æmi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
 
@@ -17,3 +15,5 @@ La mia passione è sempre stata mettere in relazione elementi diversi ma consona
 Sono nato a Torino nel 1953, oggi vivo gioiosamente nei dintorni di Lucca, immerso nel silenzio e nel rispetto della natura.
 Come potete vedere sono abbastanza anziano e mi sovviene spesso una battuta di Marcello Marchesi, *«l’importante è che la morte ci colga vivi».*<br/>
 Sto facendo del mio meglio. E approfitto della luce del crepuscolo, che rende così nitidi e accesi i colori, per mettere in mostra serenamente le mie foglie mature, infuocate dai colori dell’autunno.
+
+ ![](/images/chi-sono.jpg)

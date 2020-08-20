@@ -2,7 +2,7 @@
 layout: post
 title:  La grande famiglia
 date:   2020-08-16 18:00:00 +0100
-image:  'https://via.placeholder.com/1500x2000'
+image:  '/images/grande-famiglia.jpg'
 tags: 
 ---
 
