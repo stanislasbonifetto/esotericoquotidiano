@@ -18,6 +18,9 @@ Nacquero così le “cartine”, 144 cartoncini con 144 argomenti che richiedeva
 Da allora è passato poco più di un anno, le abbiamo usate in parecchie occasioni, ciascuno a casa propria e con i propri amici, e abbiamo constatato ambedue il prodursi di una piccola magia: la cartina che ciascuno estrae dal mazzo ha sempre qualcosa a che vedere con il suo stato di coscienza e/o di vita del momento. <br/>
 Una cosa ancora più interessante è che le situazioni sociali collettive sviluppatesi in tutte quelle occasioni non sono state fonte di vero imbarazzo per nessuno, e hanno in genere lasciato qualcosa di arricchente per tutti i partecipanti. Individuale e collettivo si sono intrecciati con armonia.
 
+![](/images/cartine.jpg)
+*Le 144 cartine*
+
 Il libro che ho scritto non riprende ovviamente tutti i temi presenti nelle “cartine”, ma nasce con lo stesso obiettivo: parliamo insieme di alcune delle cose che contano davvero nella vita. Gli argomenti dove la nostra coscienza deve per forza intervenire e – se possibile – evolvere, trasformarsi, emanciparsi da credenze, condizionamenti, superficialità. <br/>
 Sono dialoghi, piccole storie, riflessioni, commenti a pensieri di qualche grande e piccolo autore, passato o contemporaneo, tutte cose che cercano di mostrare una prospettiva diversa da quella generalmente proposta dal pensiero comune, una prospettiva “esoterica”.
 
