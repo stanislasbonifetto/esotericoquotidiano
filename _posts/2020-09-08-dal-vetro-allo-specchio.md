@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dal vetro allo specchio
-date: 2020-10-08 20:00:00 +0200
+date: 2020-09-08 20:00:00 +0200
 image: '/images/dal-vetro-allo-specchio-top.jpg'
 tags:
 ---
