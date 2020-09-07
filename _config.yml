@@ -3,7 +3,19 @@
 
 title: EQ
 logo: # You can add own logo. For example '/images/logo.png'.
-description:
+description: 
+  "<p>
+      Ho scritto un libro, l'ho fatto con gusto, per diletto, senza mestiere.<br/>
+      Parla di cose semplici in modo complesso, e di cose complesse in modo
+      semplice. <br/>
+      Ora lo sto rifinendo e ho creato questo blog per raccontare come è nato
+      e a quali princìpi si ispira.<br/>
+      Cosa stimolano in voi i vari testi? <br/>
+      I vostri commenti saranno per me assai preziosi!
+    </p>
+    <p>
+        Æmi Bonifetto
+    </p>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.esotericoquotidiano.it" # the base hostname & protocol for your site, e.g. http://example.com
 

@@ -2,12 +2,26 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+  {% assign head_title = page.title ? page.title : site.title %}
+  {% if page.layout == 'default' %}
+    {% assign head_type = 'website' %}
+    {% assign head_description = site.description %}
+  {% else %}
+    {% assign head_type = 'article' %}
+    {% assign head_description = page.content %}
+  {% endif %}
+  {% assign head_description_striped_and_truncated = head_description | strip_html | strip_newlines | truncate: 160 %}
+  {% assign head_url = page.url | replace:'index.html','' | absolute_url %}
+  <title>{{ head_title }}</title>
+  <meta name="description" content="{{ head_description_striped_and_truncated }}">
+  
+  <meta property="og:url"                content="{{ head_url }}" />
+  <meta property="og:type"               content="{{ head_type }}" />
+  <meta property="og:title"              content="{{ head_title }}" />
+  <meta property="og:description"        content="{{ head_description_striped_and_truncated }}" />
   <meta property="og:image" content='{% if page.image %}{{page.image}}{% else %}{{site.hero-image}}{% endif %}'>
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ head_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Fonts -->
