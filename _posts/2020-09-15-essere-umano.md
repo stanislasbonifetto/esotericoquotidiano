@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essere umano
+title: Essere "umano"
 date: 2020-09-15 18:00:00 +0200
 image: '/images/essere-umano-top.jpg'
 tags:
@@ -8,7 +8,7 @@ tags:
 
 Hai notato che, se provi a chiedere per esempio a un avvocato «che mestiere fai?», probabilmente lui ti risponderà «io sono un avvocato», e lo stesso accadrà – credo – se lo chiederai a un manager, a un professore, a un medico, o a un ministro … Ma se lo chiedi a un operaio, è verosimile che ti risponda «io *faccio* l’operaio».
 
-> È vero, ci avevo fatto caso anch’io, qualche tempo fa
+> È vero, ci avevo fatto caso anch’io, qualche tempo fa.
 
 Il perché mi sembra abbastanza chiaro: la qualità del lavoro che facciamo ci porta a identificarci o meno con il nostro lavoro o il nostro ruolo nella società, e il linguaggio con cui in genere ci esprimiamo lo comunica. Tuttavia è – o dovrebbe essere - indiscutibile che noi tutti *siamo* esseri umani che *fanno* un certo mestiere.
 
