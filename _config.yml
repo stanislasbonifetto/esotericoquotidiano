@@ -2,7 +2,8 @@
 # General Site Settings
 
 title: EQ
-logo: # You can add own logo. For example '/images/logo.png'.
+title-extended: Esoterico Quotidiano
+logo: '/images/logo.png'
 description: 
   "<p>
       Ho scritto un libro, l'ho fatto con gusto, per diletto, senza mestiere.<br/>
