@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Distaccarsi per vedere bene
+title:  Distaccarsi per vedere
 date:   2020-10-01 18:00:00 +0100
 image:  '/images/distaccarsi-per-vedere-top.jpg'
 tags: 
