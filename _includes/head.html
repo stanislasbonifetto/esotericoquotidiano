@@ -2,7 +2,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% assign head_title = page.title ? page.title : site.title %}
+  {% if page.title %}
+    {% assign head_title = page.title %}
+  {% else %}
+    {% assign head_title = site.title-extended %}
+  {% endif %}
   {% if page.layout == 'default' %}
     {% assign head_type = 'website' %}
     {% assign head_description = site.description %}
@@ -14,6 +18,7 @@
   {% assign head_url = page.url | replace:'index.html','' | absolute_url %}
   <title>{{ head_title }}</title>
   <meta name="description" content="{{ head_description_striped_and_truncated }}">
+  <link rel="icon" href="/images/logo.png">
   
   <meta property="og:url"                content="{{ head_url }}" />
   <meta property="og:type"               content="{{ head_type }}" />
