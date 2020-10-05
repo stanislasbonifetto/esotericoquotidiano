@@ -72,8 +72,10 @@ $(document).ready(function() {
       
       if (scroll > boxHeight.innerHeight() - 120) {
         $('.header').addClass('bg-white');
+        $('.logo__image').attr('src','/images/logo-black.png');
       } else if (scroll == 0) {
         $('.header').removeClass('bg-white');
+        $('.logo__image').attr('src','/images/logo-white.png');
       }
     });
   }
