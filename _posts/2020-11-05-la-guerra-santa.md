@@ -40,7 +40,7 @@ Si accende di tanto in tanto, e mai per molto tempo.<br/>
 Alla prima parvenza di vittoria io mi ammiro trionfare, e faccio il generoso, e vengo a
 patti col nemico.<br/>
 Vi sono dei traditori nella casa, ma hanno volti di amici. Hanno il loro posto accanto al
-fuoco, parlano in prima persona, sono così bravi che mi sembra di sentire la mia voce:<br/>
+fuoco, parlano in prima persona, sono così bravi che mi sembra di sentire la mia voce:
 «Io sono ... io so ... io voglio ...».<br/>
 Menzogne!<br/><br/>
 Sono numerosi, sono seducenti, sono pietosi, sono arroganti.<br/>
@@ -50,13 +50,13 @@ Quei fantasmi mi rubano tutto e poi cercano di impietosirmi: «Noi ti proteggiam
 esprimiamo, ti facciamo valere! Perché vuoi assassinarci, noi, i tuoi buoni amici? Cosa
 faresti senza di noi?».<br/><br/>
 Guardate che bella pace mi si propone: chiudere gli occhi per non vedere il delitto,
-credersi vittorioso prima ancora di aver lottato.<br/>
+credersi vittorioso prima ancora di aver lottato.
 Pace di menzogna!<br/>
-Adattarsi alle proprie vigliaccherie poiché lo fanno tutti.<br/>
+Adattarsi alle proprie vigliaccherie poiché lo fanno tutti.
 Pace di vinti!<br/>
 E per salvaguardare questa pace vergognosa si farebbe di tutto, si farebbe – si fa – la
 guerra al proprio simile. Perché esiste una vecchia ricetta sicura per conservare la pace
-dentro di sé: accusare sempre gli altri.<br/>
+dentro di sé: accusare sempre gli altri.
 Pace di tradimento!<br/><br/>
 Adesso sapete che intendo parlare della guerra santa.<br/>
 Chi ha dichiarato questa guerra dentro di sé è in pace coi propri simili e, benché egli sia
