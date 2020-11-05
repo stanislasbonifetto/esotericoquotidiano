@@ -7,7 +7,7 @@ tags:
 ---
 
 Negli ultimi giorni alcuni avvenimenti accaduti a Nizza e a Vienna hanno nuovamente
-fatto parlare di “guerra santa”, quella che alcune frange estremiste islamiche hanno
+fatto parlare di “guerra santa”, quella che alcune frange estremiste hanno
 dichiarato alla società occidentale, i cosiddetti “infedeli”.
 
 Sentir parlare di guerra santa in questo modo mi fa ogni volta vibrare di sdegno
