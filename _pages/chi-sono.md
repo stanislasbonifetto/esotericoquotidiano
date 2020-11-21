@@ -6,7 +6,7 @@ image: '/images/chi-sono-top.jpg'
 comment_enabled: false
 ---
 
-Sono Æmi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stesso per trovare il senso della propria vita.
+Sono Aemi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stesso per trovare il senso della propria vita.
 
 Ho fatto cose diverse, nel corso degli anni: ho lavorato a lungo nel mondo del commercio, ho sviluppato una qualifica di counselor nella rieducazione dei procedimenti mentali, ho intrapreso un lungo e impervio tirocinio spirituale, denso di meraviglie.<br />
 In senso analogico ho lavorato con la “terra del mondo”, arando, seminando e raccogliendo frutti, ma ho sempre, fin dall’adolescenza, guardato il “cielo”. Non sempre è stato facile, ma è stato fondamentale per orientare la mia vita.
