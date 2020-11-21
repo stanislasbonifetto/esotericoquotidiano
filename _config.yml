@@ -14,7 +14,7 @@ description:
       Cosa stimolano in voi i vari testi?
     </p>
     <p>
-        Æmi Bonifetto
+        Aemi Bonifetto
     </p>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.esotericoquotidiano.it" # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,8 +23,8 @@ url: "https://www.esotericoquotidiano.it" # the base hostname & protocol for you
 #-------------------------------
 # Author Settings
 author:
-  name: Æmi Bonifetto
-  bio: Sono Æmi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
+  name: Aemi Bonifetto
+  bio: Sono Aemi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stessi per trovare il senso della propria vita.
   image: 'https://via.placeholder.com/1920x1080'
   avatar: '/images/chi-sono.jpg'
 
