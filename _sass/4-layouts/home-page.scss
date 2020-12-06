@@ -106,9 +106,26 @@
   }
 }
 
-.intro-quote {
-  border-left: 4px solid #7c8853;
-  margin-top: 50px;
-  margin-bottom: 50px;
+.intro-section {
+  display: flex;
+  justify-content: space-between;
+
+  @media only screen and (max-width: $mobile) {
+    display: block;
+  }
+
+  .intro-quote {
+    border-left: 4px solid #7c8853;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .book__link {
+    margin: auto;
+
+    @media only screen and (max-width: $mobile) {
+        width: 100%;
+    }
+  }
 }
 
