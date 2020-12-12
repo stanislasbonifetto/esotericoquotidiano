@@ -4,6 +4,7 @@ title: Chi sono
 permalink: /chi-sono/
 image: '/images/chi-sono-top.jpg'
 comment_enabled: false
+buy_enabled: false
 ---
 
 Sono Aemi Bonifetto, un “entronauta”, una di quelle persone che hanno intrapreso un viaggio all’interno di se stesso per trovare il senso della propria vita.
