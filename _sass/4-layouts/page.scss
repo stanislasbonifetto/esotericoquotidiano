@@ -64,8 +64,18 @@
   }
 }
 
-.page__content, img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+.page__content {
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .buy-button {
+    color: white;
+    background-color: $dark;
+    &:hover {
+      color: white;
+    }
+  }
 }

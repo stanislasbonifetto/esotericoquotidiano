@@ -527,3 +527,27 @@
     background-color: $button-color-hover;
   }
 }
+
+.comment-button {
+  background: transparent;
+  border-radius: 3px;
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  border: 1px solid $dark;
+  padding: 8px 24px;
+
+  vertical-align: middle;
+  font-size: 14px;
+  line-height: 2em;
+  letter-spacing: .2em;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-sizing: border-box;
+
+
+  display: flex;
+  justify-content: center;
+
+  -webkit-text-fill-color: $dark
+}
