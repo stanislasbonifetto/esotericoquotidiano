@@ -14,7 +14,7 @@
     outline: 0;
     box-sizing: border-box;
     transition: all .2s ease-in-out;
-    padding: 10px 40px 10px;
+    padding: 10px 30px 10px;
     color: #fff;
     background-color: $dark;
     cursor: pointer;
@@ -31,7 +31,7 @@
     margin-bottom: 20px;
     margin-left: 20px;
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: $tablet) {
         margin-left: 0px;
     }
 
@@ -40,10 +40,20 @@
         color: white;
     }
 
+    .book-image-container {
+        width: 60%;
+        margin: auto;
+
+        @media only screen and (max-width: $desktop) {
+            width: 40%;
+        }
+    }
+
     img {
         border: 1px solid white;
         border-radius: 20px;
-        max-height: 300px;
+        width: 100%;
+        height: auto;
     }
 
     button {
