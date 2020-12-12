@@ -110,7 +110,7 @@
   display: flex;
   justify-content: space-between;
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $tablet) {
     display: block;
   }
 
@@ -120,11 +120,45 @@
     margin-bottom: 50px;
   }
 
-  .book__link {
-    margin: auto;
+  .book-container {
+    flex-grow: 1;
+  }
+
+  .book-data {
+    display: flex;
+    justify-content: space-around;
 
     @media only screen and (max-width: $mobile) {
-        width: 100%;
+      display: block;
+    }
+
+    img {
+      margin-left: 0px;
+      margin-right: 0px;
+      
+      @media only screen and (max-width: $mobile) {
+        margin: auto;
+      }
+    }
+
+    div {
+      max-width: 50%;
+      padding-top: 30px;
+      padding-bottom: 30px;
+
+      @media only screen and (max-width: $mobile) {
+        max-width: 100%;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+
+      h3 {
+        margin-top: 20px;
+
+        @media only screen and (max-width: $mobile) {
+          margin-bottom: 0px;
+        }
+      }
     }
   }
 }

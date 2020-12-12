@@ -1,11 +1,7 @@
 <!-- begin sidebar -->
 <aside class="sidebar">
-  <div class="widget widget-author">
-    <div class="author-image-box">
-      <div class="author__image" style="background-image: url({{site.baseurl}}{{site.author.avatar}})"></div>
-    </div>
-    <h5 class="author__name">{{site.author.name}}</h5>
-    <div class="author__bio">{{site.author.bio}}</div>
+  <div>
+    {% include book-card.html %}
   </div>
 
   <div class="widget widget-recent">
