@@ -106,9 +106,97 @@
   }
 }
 
-.intro-quote {
-  border-left: 4px solid #7c8853;
-  margin-top: 50px;
-  margin-bottom: 50px;
+.intro-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media only screen and (max-width: $desktop) {
+    display: block;
+  }
+
+  .intro-quote {
+    border-left: 4px solid #7c8853;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .book-container {
+    flex-grow: 1;
+
+    @media only screen and (min-width: $desktop) {
+      max-width: 50%;
+    }
+  }
+
+  .book-data {
+    display: flex;
+    justify-content: space-around;
+
+    @media only screen and (max-width: $mobile) {
+      display: block;
+    }
+    .book-image {
+      width: 30%;
+      align-items: center;
+      display: flex;
+
+      @media only screen and (min-width: $desktop) {
+        width: 40%;
+      }
+      @media only screen and (max-width: $mobile) {
+        margin: auto;
+        width: 50%;
+      }
+
+      img {
+        margin-left: 0px;
+        margin-right: 0px;
+      }
+    }
+
+    .book-detail {
+      width: 60%;
+      padding: 30px;
+
+      @media only screen and (max-width: $mobile) {
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+
+      h3 {
+        margin-top: 20px;
+
+        @media only screen and (max-width: $mobile) {
+          margin-bottom: 0px;
+        }
+      }
+    }
+
+    .book-article-link {
+      background: transparent;
+      border-radius: 3px;
+      height: 50px;
+      width: 100%;
+      margin-top: 20px;
+      border: 1px solid white;
+      padding: 8px 24px;
+
+      vertical-align: middle;
+      font-size: 14px;
+      line-height: 2em;
+      letter-spacing: .2em;
+      font-weight: 700;
+      text-transform: uppercase;
+      box-sizing: border-box;
+
+
+      display: flex;
+      justify-content: center;
+
+      -webkit-text-fill-color: white;
+    }
+  }
 }
 

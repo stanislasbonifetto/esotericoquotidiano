@@ -1,0 +1,85 @@
+.buy-button {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 2em;
+    letter-spacing: .2em;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    outline: 0;
+    box-sizing: border-box;
+    padding: 10px 30px 10px;
+    color: $dark;
+    background-color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+
+    &:hover {
+        color: $dark;
+    }
+}
+
+.book-area {
+    background: transparent;
+    background-color: #b7410e;
+    border-radius: 20px;
+    padding: 20px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+    @media only screen and (max-width: $tablet) {
+        margin-left: 0px;
+    }
+
+    h3 {
+        text-align: center;
+        color: white;
+    }
+
+    .book-image-container {
+        width: 60%;
+        margin: auto;
+
+        @media only screen and (max-width: $desktop) {
+            width: 40%;
+        }
+    }
+
+    img {
+        border: 1px solid white;
+        border-radius: 20px;
+        width: 100%;
+        height: auto;
+    }
+
+    button {
+        background-color: white;
+        color: black;
+    }
+
+    .widget__head::before {
+        z-index: 0;
+    }
+}
+
+.book__link {
+    margin: auto;
+    max-width: 50%;
+
+    @media only screen and (max-width: $mobile) {
+        width: 100%;
+    }
+
+    div {
+      display: flex;
+    }
+  }

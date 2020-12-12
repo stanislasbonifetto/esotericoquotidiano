@@ -4,11 +4,32 @@ layout: default
 {% include hero.html %}
 
 <div class="container">
-  <div>
-  <blockquote class="intro-quote">
-    {{ site.description }}
-  </blockquote>
-</div>
+  <div class="intro-section">
+    <div>
+      <blockquote class="intro-quote">
+        {{ site.description }}
+      </blockquote>
+    </div>
+    <div class="book-container">
+      <div class="book-area">
+        <div class="widget__box">
+          <div class="widget__head">
+              <h4 class="widget__title">Novità</h4>
+          </div>
+          <div class="book-data">
+            <div class="book-image">
+              <img src="{{site.book.image}}">
+            </div>
+            <div class="book-detail">
+              <h3 >EQ è ora un libro</h3>
+              <a class="buy-button" href="{{site.book.url}}" target="_blank">Compralo!</a>
+              <a class="book-article-link" href="{{site.book.pageUrl}}">Scopri di più</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="row">
     <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
       <div class="container__inner">
