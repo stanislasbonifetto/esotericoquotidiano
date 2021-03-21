@@ -9,6 +9,8 @@ home_page: false
 Eccolo! È pronto! <br/>
 Il libro è stampato! Anzi no, è pronto per la stampa, perché verrà stampato nel momento stesso in cui voi lo acquisterete, onde evitare inutili sprechi di carta, spazio e denaro. Suona forse un po’ retorico, ma Esoterico Quotidiano verrà stampato proprio per ciascuno di voi, espressamente!
 
+<b>Ed è ora disponibile anche la versione per il Kindle, per chi non prova una particolare passione nel maneggiare il libro cartaceo e preferisce l’indubbia praticità del formato digitale.</b>
+
 Sapete quando si dice “non avrei mai immaginato che fosse così complesso” … ebbene, oggi posso dirlo anch’io, non avrei mai pensato che editare un libro fosse un’operazione così articolata, fatta di un’infinità di dettagli.<br/>
 Nella mia ingenuità di scrittore dilettante pensavo che la cosa fondamentale fosse scriverlo, il libro, centrare gli argomenti, svilupparli in modo comprensibile, rendere la forma espressiva accattivante, il tutto senza tradire la mia intenzione primaria: aiutiamo la coscienza a evolvere.<br/>
 Sì, in teoria! Poi, nella pratica, ci sono mille “cosucce” da sistemare, per fare in modo che questo trattatello sul valore interiore dell’esistenza umana, fatto di piccole e grandi storie di persone reali, avesse una veste degna di essere pubblicata. I miei quattro ragazzi si sono tirati su le maniche, hanno affrontato l’ignoto (mai pubblicato un libro, prima) e l’hanno fatto diventare noto, conosciuto, imparato.<br/>
