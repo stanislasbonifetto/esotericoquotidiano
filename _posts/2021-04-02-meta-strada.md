@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La meta e la strada
-date: 2021-04-02 12:00:00 +0200
+date: 2021-04-02 17:00:00 +0200
 image: '/images/meta-strada-top.jpg'
 tags:
 ---
@@ -26,6 +26,3 @@ In un deserto così, **se si rimane soli si muore**.
 Per riuscire a vivere in una realtà percepita in questo modo sono indispensabili – a mio parere – due cose. <br/>
 Una è che bisogna concepire e desiderare una meta “al di là del deserto”, una meta al di là della materia, una **meta spirituale**. *“Il mio Regno non è di questo mondo”* è una delle frasi più profonde e potenti dell’intero cristianesimo, un vero paradosso, se ci pensate. E ha una certa misteriosa risonanza con un altro paradosso, il detto taoista *“Senza uscire dalla porta puoi conoscere il mondo, senza spiare dalla finestra puoi vedere la via del cielo”*. <br/>
 L’altra è cercare una **carovana** che abbia la stessa meta. E – una volta trovatala – integrarsi con il suo ritmo (senza perdere il proprio), adattarsi ai compagni di viaggio, accettare le loro difficoltà, comprendere che solo la carovana può raggiungere la meta. Da soli si muore, nel deserto.
-
-
-
