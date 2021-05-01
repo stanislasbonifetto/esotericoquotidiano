@@ -26,7 +26,7 @@ Per divenire veri e propri **esseri umani** ci spetta il compito di imparare a d
 In realtà nasciamo burattini. Tutti, chi più chi meno. Da un legno speciale, è vero, Geppetto se ne rende conto subito. Ma per **trasformarci** in esseri umani degni di questo (nobile) nome c’è una strada da percorrere, e nessuno può percorrerla al posto nostro.
 
 PS. <br/>
-Vorrei aggiungere una considerazione sulle energie che vengono a volte considerate “spirituali”. Ho usato appositamente la s e non la S, poiché lo **Spirito** che nobilita la nostra **anima** e la spinge a creare **azioni armoniche con il Tutto** NON fa parte di tutte le energie invisibili che abitano da padrone questa Terra. “_Il Tao che può essere nominato (vale a dire descritto) non è il vero Tao_”.<br/>
+Vorrei aggiungere una considerazione sulle energie che vengono a volte considerate “spirituali”. Ho usato appositamente la s e non la S, poiché lo **Spirito** che nobilita la nostra **anima** e la spinge a creare **azioni armoniche con il Tutto** NON fa parte di tutte le energie invisibili che abitano da padrone questa Terra. “_Il Tao che può essere nominato_ (vale a dire descritto) _non è il vero Tao_”.<br/>
 Tuttavia – ecco il **Grande Paradosso** – “_ci è più vicino dei piedi e delle mani_”, racconta il Vangelo cristiano, è qualcosa che vive “dentro di noi” ed è – al tempo stesso – “oltre noi”.
 Possiamo accedervi?<br/>
 Sì.<br/>
