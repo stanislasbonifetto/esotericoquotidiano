@@ -7,7 +7,7 @@ tags:
 ---
 
 Qualcosa anima il nostro corpo ([vedi qui](/2021/04/23/maschile-femminile-3/)), la nostra epifisi è “rivolta **verso l’alto**”, riceve delle suggestioni e le trasmette all’ipofisi, la quale mette in moto **verso il basso** tutta una serie di reazioni ormonali che polarizzano il nostro intero organismo, finendo per **orientare le nostre azioni.**<br/>
-Di che natura sono queste suggestioni? Da dove provengono? Sono sempre le stesse o variano, a seconda di momenti e situazioni diverse? Possiamo gestire – in qualche modo – queste influenze?
+Di che natura sono queste suggestioni? Da dove provengono? Sono sempre le stesse o variano, a seconda di momenti e situazioni diverse? Possiamo gestire – in qualche modo – queste influenze?<br/>
 Una delle fiabe più popolari al mondo è senza dubbio “**Pinocchio**”, dove si narra il processo che porta un burattino (un essere senza consapevolezza, comandato da fili più o meno visibili) a ottenere la capacità di scelta tipica di un vero essere umano, il famoso “**libero arbitrio**”. Il suo cammino nella vita attraversa esperienze che gli mostrano i fili che lo comandano, e forse – se siamo fortunati – possiamo dire la stessa cosa di noi stessi e della nostra esistenza. **Sapere di non essere liberi** è il primo passo per potersi liberare.
 
 Uno stormo di uccelli volteggia nel cielo, incredibilmente **coordinato**, in evoluzioni spettacolari che affascinano chiunque stia osservando.<br/>
