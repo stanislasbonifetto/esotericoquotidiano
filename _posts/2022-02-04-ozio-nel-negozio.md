@@ -27,7 +27,7 @@ In questa piega del tempo (che è sempre a nostra disposizione) possiamo fare qu
 È l’ozio ***nel*** negozio, un istante di libertà (dell’anima) in cui il tempo e lo spazio si annullano, il meccanismo lavorativo si interrompe e noi entriamo in uno stato di particolare **coscienza di sé**. <br/>
 Quando – dopo questa escursione nel **tempo Kairòs** (vedi [Tempo](/2020/10/29/tempo)) – torniamo alle nostre occupazioni, ci rendiamo subito conto che qualcosa è cambiato. Non nella situazione in cui siamo immersi, ma nel nostro modo di interpretarla. Non nella forma delle cose, ma nel nostro modo di maneggiarle. Tutto resta apparentemente uguale, ma tutto diviene sostanzialmente diverso.
 
-Non è facile, poiché vi sono molte resistenze dentro di noi che cercheranno di mantenerci nel meccanismo, alla periferia di noi stessi, lontani dal nostro sé profondo.
+Non è facile, poiché vi sono molte resistenze dentro di noi che cercheranno di mantenerci nel meccanismo, alla periferia di noi stessi, lontani dal nostro sé profondo. <br/>
 Ma è **semplice**. Estremamente semplice.
 
 
