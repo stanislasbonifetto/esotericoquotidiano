@@ -40,7 +40,7 @@ Siamo davvero **stufi** di guardare dal buco della serratura?
 *che non mi faccia mai cambiare idea* <br/>
 *sulle cose e sulla gente*”
 
-Dante lo chiama “*'l punto al qual si traggon d'ogne parte i pesi*”, e nella sua Comedia è il punto chiave del passaggio dall’Inferno al Purgatorio, dal triste e sterile spettacolo dei mali del mondo (e in sé stesso) al cammino di purificazione verso la beatitudine del Paradiso.
+Dante lo chiama “*'l punto al qual si traggon d'ogne parte i pesi*”, e nella sua Comedia è il punto chiave del passaggio dall’Inferno al Purgatorio, dal triste e sterile spettacolo dei mali del mondo al cammino di purificazione verso la beatitudine del Paradiso.
 
 Possiamo pensare che esista – dentro di noi – un “centro di gravità permanente”? E che sia raggiungibile? <br/>
 Discorso lungo, da fare un po’ per volta e con cautela, poiché non esistono ricette valide per tutti, il percorso di avvicinamento a questo centro dipende da molti fattori individuali: storia personale, sensibilità, conoscenza (o ignoranza) di sé stessi. <br/>
