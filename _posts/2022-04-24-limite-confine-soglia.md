@@ -11,7 +11,7 @@ Probabilmente era giusto così, ma nel crescere tutto questo ci ha innegabilment
 Un confine è dunque un limite? <br/>
 In un notevole libro di Marco Balzano, “*Le parole sono importanti*”, ho trovato un interessante **approfondimento etimologico** dei due termini, a torto ritenuti sinonimi.
 
-**Limite** deriva dal latino limes, parola che indicava il sentiero che **divide** due campi, due territori, due domini. In termini militari era la strada presidiata dai soldati, la separazione tra il mondo romano e quello barbaro, allora estremamente pericoloso. Il limes è dunque un luogo che non si deve superare, la difesa da una minaccia, lo spazio dove **poli opposti** si scontrano: dentro/fuori, amico/nemico, legale/illegale, ecc ...
+**Limite** deriva dal latino *limes*, parola che indicava il sentiero che **divide** due campi, due territori, due domini. In termini militari era la strada presidiata dai soldati, la separazione tra il mondo romano e quello barbaro, allora estremamente pericoloso. Il *limes* è dunque un luogo che non si deve superare, la difesa da una minaccia, lo spazio dove **poli opposti** si scontrano: dentro/fuori, amico/nemico, legale/illegale, ecc ...
 
 **Confine** ha un’etimologia molto diversa, deriva da *cum* e *finis*, è il luogo dove si “**finisce insieme**”, dove ci si trova di fronte a qualcuno (la “frontiera”) e lo si può guardare negli occhi, toccare, iniziare a conoscere. È il luogo in cui l’**altro-da-me** mi offre la sua diversità, la sua varietà. 
 
