@@ -15,7 +15,7 @@ In un notevole libro di Marco Balzano, “*Le parole sono importanti*”, ho tro
 
 **Confine** ha un’etimologia molto diversa, deriva da *cum* e *finis*, è il luogo dove si “**finisce insieme**”, dove ci si trova di fronte a qualcuno (la “frontiera”) e lo si può guardare negli occhi, toccare, iniziare a conoscere. È il luogo in cui l’**altro-da-me** mi offre la sua diversità, la sua varietà. 
 
-Marco Balzano racconta anche che vicina (per etimologia) a limes-limite c’è la parola limen-soglia, che in un certo senso collega i due differenti stati su cui stiamo riflettendo. La **soglia** non è una barriera che delimita e respinge ma un **varco** che si apre su un’altra realtà, popolata o no che sia.
+Marco Balzano racconta anche che vicina (per etimologia) a *limes*-limite c’è la parola *limen*-soglia, che in un certo senso collega i due differenti stati su cui stiamo riflettendo. La **soglia** non è una barriera che delimita e respinge ma un **varco** che si apre su un’altra realtà, popolata o no che sia.
 
 Un **viaggiatore** non conosce limiti ma confini, e li varca alla ricerca di mondi e culture dove l’altro-da-sé manifesta usi e costumi diversi dai suoi, a volte curiosi, quasi sempre interessanti e arricchenti per la sua personalità. Si torna da un bel viaggio con un bagaglio di esperienze che ci rendono “**cittadini del mondo**” più completi.
 
