@@ -22,6 +22,14 @@ layout: default
           {% endif %}
           {% include comment-form.html %}
         </div>
+        {% if page.audio %}
+          <div class="widget">
+            <div class="widget__head">
+              <h3 class="widget__title">Ascolta in versione audio</h3>
+            </div>
+            {% include audio-player.html src=page.audio %}
+          </div>
+        {% endif %}
       </article>
       <!-- end page -->
     </div>

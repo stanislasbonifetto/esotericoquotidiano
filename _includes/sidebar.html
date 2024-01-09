@@ -1,6 +1,14 @@
 <!-- begin sidebar -->
 <aside class="sidebar">
-  <div>
+  {% if page.audio %}
+    <div class="widget">
+      <div class="widget__head">
+        <h4 class="widget__title">Versione audio</h4>
+      </div>
+      {% include audio-player.html src=page.audio %}
+    </div>
+  {% endif %}
+  <div class="widget">
     {% include book-card.html %}
   </div>
 
