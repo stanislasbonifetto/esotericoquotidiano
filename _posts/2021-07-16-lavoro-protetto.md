@@ -3,6 +3,7 @@ layout: post
 title: Il lavoro protetto
 date: 2021-07-16 18:00:00 +0200
 image: '/images/lavoro-protetto-top.jpg'
+audio: '/audio/lavoro-protetto.mp3'
 tags:
 ---
 

@@ -3,6 +3,7 @@ layout: page
 title: Cosa significa esoterico
 permalink: /cosa-significa-esoterico/
 image: '/images/cosa-significa-esoterico-bg.jpg'
+audio: '/audio/cosa-significa-esoterico.mp3'
 home_page: true
 ---
 

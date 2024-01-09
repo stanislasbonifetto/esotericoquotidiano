@@ -3,6 +3,7 @@ layout: post
 title: Le parole tradite
 date: 2023-08-06 18:00:00 +0200
 image: '/images/parole-tradite-top.jpg'
+audio: '/audio/parole-tradite.mp3'
 tags:
 ---
 
