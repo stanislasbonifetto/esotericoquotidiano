@@ -3,6 +3,7 @@ layout: post
 title: Il labirinto
 date: 2023-06-27 17:00:00 +0200
 image: '/images/labirinto-top.jpg'
+audio: '/audio/labirinto.mp3'
 tags:
 ---
 

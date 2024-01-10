@@ -3,6 +3,7 @@ layout: post
 title: Subire o accettare
 date: 2023-04-04 17:00:00 +0200
 image: '/images/subire-accettare-top.jpg'
+audio: '/audio/subire-accettare.mp3'
 tags:
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: La conversazione
 date: 2023-07-10 18:00:00 +0200
 image: '/images/conversazione-top.jpg'
+audio: '/audio/conversazione.mp3'
 tags:
 ---
 

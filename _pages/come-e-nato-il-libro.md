@@ -3,6 +3,7 @@ layout: page
 title: Com'è nato il libro
 permalink: /come-e-nato-il-libro/
 image: '/images/come-e-nato-il-libro-bg.jpg'
+audio: '/audio/come-nato-il-libro.mp3'
 home_page: true
 ---
 
