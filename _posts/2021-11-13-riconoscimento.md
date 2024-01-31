@@ -3,6 +3,7 @@ layout: post
 title: Il riconoscimento
 date: 2021-11-13 13:00:00 +0200
 image: '/images/riconoscimento-top.jpg'
+audio: '/audio/riconoscimento.mp3'
 tags:
 ---
 

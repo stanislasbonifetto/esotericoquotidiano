@@ -3,6 +3,7 @@ layout: post
 title: Essere "umano"
 date: 2020-09-15 18:00:00 +0200
 image: '/images/essere-umano-top.jpg'
+audio: '/audio/essere-umano.mp3'
 tags:
 ---
 
