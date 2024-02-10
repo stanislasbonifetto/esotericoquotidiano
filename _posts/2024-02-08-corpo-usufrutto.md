@@ -3,6 +3,7 @@ layout: post
 title: Il corpo in usufrutto
 date: 2024-02-08 13:00:00 +0200
 image: '/images/corpo-usufrutto-top.jpg'
+audio: '/audio/corpo-usufrutto.mp3'
 tags:
 ---
 
