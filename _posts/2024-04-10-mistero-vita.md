@@ -2,7 +2,7 @@
 layout: post
 title: Il mistero della vita
 date: 2024-04-10 13:00:00 +0200
-image: '/images/corpo-usufrutto-top.jpg'
+image: '/images/mistero-vita-top.jpg'
 tags:
 ---
 
