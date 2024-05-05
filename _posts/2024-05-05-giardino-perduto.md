@@ -1,0 +1,20 @@
+---
+layout: post
+title: Il giardino perduto
+date: 2024-05-05 06:00:00 +0200
+image: '/images/giardino-perduto-top.jpg'
+tags:
+---
+
+Riflettendo sul tema dell’ultimo articolo, “[Il Mistero della vita](/2024/04/10/mistero-vita)”, mi è venuto in mente un passo ben noto del Genesi dell’Antico Testamento, dove si narra che in **Eden** Dio dette ad Adamo un avvertimento: “*di ogni albero del giardino puoi mangiare a sazietà, ma in quanto all’albero della conoscenza del bene e del male non ne devi mangiare, poiché quando ne mangerai certamente dovrai morire*”. <br/>
+Lasciamo da parte in modo radicale tutti gli aspetti legati al cosiddetto “peccato originale” (con l’annesso senso di colpa) di cui è intrisa la mentalità cristiana ufficiale e consideriamo che Adamo (originariamente Adm) significa letteralmente “umanità” nel suo insieme, e non un singolo individuo. <br/>
+Dio non sta dicendo agli esseri umani di allora che mangiare da quell’albero è sbagliato, ma solo che **comporta morire**. Non è una questione morale, è un suggerimento ... come dire ... tecnico: se fai questo succede quello. <br/>
+Se osserviamo il mito da questa prospettiva, l’albero della conoscenza del bene e del male sembra essere una specie di **porta** tra una dimensione in cui la vita è eterna (nel mito si narra anche che, se Adamo mangerà i frutti dell’Albero della Vita, vivrà per sempre) e un’altra in cui si è soggetti alla morte. <br/>
+Tornando al tema del precedente articolo, possiamo pensare che Eden – il Giardino sacro in cui viveva in origine l’umanità – si trovi quindi nella sesta dimensione, la sede naturale del fenomeno “**vita**”, e la conoscenza del bene e del male sia la porta che immette nella settima dimensione, quella del costante “**mutamento**” tra opposti, in cui si nasce e si muore, dove ci troviamo attualmente tutti.
+
+Con la lampada della nostra **intelligenza analogica** ben accesa facciamo ora un ulteriore passaggio e poniamo (come ipotesi di indagine) che Eden, il Giardino sacro, si trovi **dentro di noi**, in una dimensione parallela del nostro essere a cui non abbiamo in genere accesso, ma che è in realtà accessibile. Poiché la porta che ci ha fatto scivolare in questa dimensione può essere varcata anche **in senso inverso**, se adottiamo i giusti accorgimenti. <br/>
+Per esempio: se siamo finiti qui a causa della scelta di voler suddividere la visione unitaria della realtà in “conoscenza del bene e del male”, per varcare la porta nell’altra direzione, verso la sesta dimensione dell’essere, occorre innanzitutto **rinunciare alla nostra propensione al giudizio**, a frazionare in giusto e sbagliato, buono o cattivo, utile o dannoso, ogni cosa si presenti davanti alla nostra coscienza. <br/>
+E poi ... c’è un altro giardino di cui possiamo prenderci cura: il nostro **campo elettromagnetico personale**, una sfera vibrante che ci circonda, che plasma la nostra vita qui sulla Terra secondo una formula vibratoria del tutto individuale, attirando e respingendo persone, eventi, situazioni ... Noi non la conosciamo e in genere nemmeno la percepiamo, ma possiamo vederne gli effetti da un lato in ciò che ci accade, dall’altro nelle nostre reazioni, nel nostro comportamento nelle varie situazioni. <br/>
+È doloroso – ma onestamente veritiero – ammettere che questo giardino non è per nulla in buone condizioni, quasi del tutto lasciato a sé stesso, che vi prosperano male erbe, che i fiori sono pochi e appassiscono rapidamente. **Più che averne cura lo sfruttiamo**, utilizziamo le sue piante per la soddisfazione dei nostri desideri egoistici, a volte anche solo – ahimè – per i nostri capricci. <br/>
+Questo campo elettromagnetico personale non è ovviamente Eden, il Giardino perduto, sacro e originale. Ma gli è in qualche modo legato, poiché al suo interno si trova la porta per accedervi. È lì che possiamo intervenire sul nostro egocentrismo e sulla sua tirannia, che possiamo invertire la direzione del nostro desiderio. <br/>
+È al centro di quel campo vibratorio, nel profondo del nostro cuore, che possiamo coltivare il **Fiore senza tempo**, poiché in quel centro si trova – da sempre – il suo seme.
