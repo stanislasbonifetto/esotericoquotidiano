@@ -7,10 +7,10 @@ tags:
 ---
 
 Si racconta che Rābi’a al-‘Adawiyya, una mistica Sufi dell’ottavo secolo d.C., stava cercando qualcosa per strada, fuori dalla sua capanna. <br/> 
-Dato che il sole stava ormai tramontando, alcune persone intorno a lei le chiesero *«Cosa stai cercando? Forse possiamo aiutarti»* , e lei rispose *«Ho perso un ago»* .  <br/> 
-Allpra uno disse *«Se ci dici più o meno dove è caduto, restringeremo l’area dove cercarlo e sarà più facile trovarlo»* . Rābi’a rispose *«In realtà non è affatto caduto sulla strada, ma in casa mia»* . <br/> 
-Tutti iniziarono a ridacchiare e uno di loro disse *«Abbiamo sempre saputo che sei un po’ pazza! Se l’ago è caduto all’interno della casa, perché lo stai cercando sulla strada?»* . <br/> 
-Rābi’a allora disse *«È quello che state facendo voi, stavo solo seguendo il vostro esempio.*  <br/> *Continuate a cercare la felicità nel mondo esterno, senza fare la domanda fondamentale: dove l’ho persa esattamente?*  <br/> *L’avete persa dentro, ma la cercate fuori: i vostri sensi sono rivolti all’esterno, le vostre orecchie sentono suoni esterni, le vostre mani toccano cose all’esterno.*  <br/> *Per molto tempo ho fatto anch’io come voi, ma il giorno in cui ho cercato all’interno sono rimasta sorpresa. Quello che ho smarrito l’ho perso lì, e lì è l’unico posto dove può essere ritrovato»* .
+Dato che il sole stava ormai tramontando, alcune persone intorno a lei le chiesero *«Cosa stai cercando? Forse possiamo aiutarti»* , e lei rispose *«Ho perso un ago»*.  <br/> 
+Allora uno disse *«Se ci dici più o meno dove è caduto, restringeremo l’area dove cercarlo e sarà più facile trovarlo»*. Rābi’a rispose *«In realtà non è affatto caduto sulla strada, ma in casa mia»*. <br/> 
+Tutti iniziarono a ridacchiare e uno di loro disse *«Abbiamo sempre saputo che sei un po’ pazza! Se l’ago è caduto all’interno della casa, perché lo stai cercando sulla strada?»*. <br/> 
+Rābi’a allora disse *«È quello che state facendo voi, stavo solo seguendo il vostro esempio.*  <br/> *Continuate a cercare la felicità nel mondo esterno, senza fare la domanda fondamentale: dove l’ho persa esattamente?*  <br/> *L’avete persa dentro, ma la cercate fuori: i vostri sensi sono rivolti all’esterno, le vostre orecchie sentono suoni esterni, le vostre mani toccano cose all’esterno.*  <br/> *Per molto tempo ho fatto anch’io come voi, ma il giorno in cui ho cercato all’interno sono rimasta sorpresa. Quello che ho smarrito l’ho perso lì, e lì è l’unico posto dove può essere ritrovato»*.
 
 Questa storia, raccontatami da una mia amica pochi giorni fa, mi sembra uno spunto interessante per cominciare a parlare un po’ più direttamente del libro che mi accingo a pubblicare, “**Vademecum per Entronauti** ”. Ne riporto qui di seguito alcuni estratti, tratti dal capitolo “**Le premesse al viaggio** ”.
 
