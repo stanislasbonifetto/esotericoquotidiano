@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Fuori o dentro
+title: Fuori o dentro?
 date: 2024-11-27 18:00:00 +0200
 image: '/images/fuori-o-dentro-top.jpg'
 tags:
 ---
 
 Si racconta che Rābi’a al-‘Adawiyya, una mistica Sufi dell’ottavo secolo d.C., stava cercando qualcosa per strada, fuori dalla sua capanna. <br/> 
-Dato che il sole stava ormai tramontando, alcune persone intorno a lei le chiesero *«Cosa stai cercando? Forse possiamo aiutarti»* , e lei rispose *«Ho perso un ago»*.  <br/> 
+Dato che il sole stava ormai tramontando, alcune persone intorno a lei le chiesero *«Cosa stai cercando? Forse possiamo aiutarti»*, e lei rispose *«Ho perso un ago»*.  <br/> 
 Allora uno disse *«Se ci dici più o meno dove è caduto, restringeremo l’area dove cercarlo e sarà più facile trovarlo»*. Rābi’a rispose *«In realtà non è affatto caduto sulla strada, ma in casa mia»*. <br/> 
 Tutti iniziarono a ridacchiare e uno di loro disse *«Abbiamo sempre saputo che sei un po’ pazza! Se l’ago è caduto all’interno della casa, perché lo stai cercando sulla strada?»*. <br/> 
 Rābi’a allora disse *«È quello che state facendo voi, stavo solo seguendo il vostro esempio.*  <br/> *Continuate a cercare la felicità nel mondo esterno, senza fare la domanda fondamentale: dove l’ho persa esattamente?*  <br/> *L’avete persa dentro, ma la cercate fuori: i vostri sensi sono rivolti all’esterno, le vostre orecchie sentono suoni esterni, le vostre mani toccano cose all’esterno.*  <br/> *Per molto tempo ho fatto anch’io come voi, ma il giorno in cui ho cercato all’interno sono rimasta sorpresa. Quello che ho smarrito l’ho perso lì, e lì è l’unico posto dove può essere ritrovato»*.
@@ -24,8 +24,8 @@ Avevo una ventina d’anni allora, ero già “sulla soglia” ma ancora non lo 
 (…) Nel corso del mio viaggio interiore ho scoperto aspetti di me che avevano fino a quel momento polarizzato negativamente la mia vita, facendomi credere di essere vittima di eventi che avevo invece io stesso generato, ovviamente senza rendermene conto.  <br/> 
 Oh, quanti aspetti di me non conoscevo! Quante relazioni intessiamo con ciò che ci circonda, in ogni azione che compiamo, in ogni giudizio che emettiamo, in ogni desiderio che inseguiamo. Come tutto questo contribuisce a plasmare la realtà – nostra e del mondo intorno a noi – continuamente, a ogni battito di ciglia! 
 
-Sono anni ormai che **viaggio senza uscire dalla porta** , direbbe un saggio taoista, “fuori o dentro” non è più per me un vero distinguo.  <br/> 
-Ho imparato a osservare *da dentro verso fuori* , e l’esistenza ha iniziato a svelarsi a me momento per momento. <br/> 
+Sono anni ormai che **viaggio senza uscire dalla porta**, direbbe un saggio taoista, “fuori o dentro” non è più per me un vero distinguo.  <br/> 
+Ho imparato a osservare *da dentro verso fuori*, e l’esistenza ha iniziato a svelarsi a me momento per momento. <br/> 
 Mostrando – oh, meraviglia! – la sostanziale unità del Tutto. <br/> 
  <br/> 
 Per ora mi fermo qui, ma nei prossimi articoli cercherò di dare un’idea un po’ più ampia dei temi trattati nel libro. <br/> 
