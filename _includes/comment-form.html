@@ -20,7 +20,10 @@
                 fetch(form.action, {
                     method: 'POST',
                     redirect: 'follow',
-                    body: formData
+                    body: formData,
+                    headers: {
+                        "Content-Type": "text/plain;charset=utf-8",
+                    },
                 })
                 .then(response => response.json())
                 .then(data => {
