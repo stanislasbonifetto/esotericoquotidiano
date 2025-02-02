@@ -25,14 +25,12 @@
                 .then(response => response.json())
                 .then(data => {
                     console.log(data)
-                    form.style.display = 'none';
-                    document.getElementById('success-message').style.display = 'block';
-                    // if (data.status == 'success') {
-                    //     form.style.display = 'none';
-                    //     document.getElementById('success-message').style.display = 'block';
-                    // } else {
-                    //     alert("Non è stato possibile inviare il commento. Siete pregati di riprovare più tardi.");
-                    // }
+                    if (data.status == 'success') {
+                        form.style.display = 'none';
+                        document.getElementById('success-message').style.display = 'block';
+                    } else {
+                        alert("Non è stato possibile inviare il commento. Siete pregati di riprovare più tardi.");
+                    }
                 })
                 .catch(error => console.error('Error:', error));
             } else {
