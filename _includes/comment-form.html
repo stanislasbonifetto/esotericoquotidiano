@@ -17,18 +17,20 @@
             if(form.checkValidity()) {
                 event.preventDefault();
                 var formData = new FormData(form);
-                var xhr = new XMLHttpRequest();
-                xhr.open('POST', form.action, true);
-                xhr.setRequestHeader('Accept', 'application/xml');
-                xhr.onload = function() {
-                    if (xhr.status === 200) {
+                fetch(form.action, {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status == 'success') {
                         form.style.display = 'none';
                         document.getElementById('success-message').style.display = 'block';
                     } else {
                         alert("Non è stato possibile inviare il commento. Siete pregati di riprovare più tardi.");
                     }
-                };
-                xhr.send(formData);
+                })
+                .catch(error => console.error('Error:', error));
             } else {
                 showValidationResult(document.getElementById("comments-group-top"));
             }
