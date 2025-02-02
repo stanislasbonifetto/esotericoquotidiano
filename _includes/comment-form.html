@@ -19,16 +19,20 @@
                 var formData = new FormData(form);
                 fetch(form.action, {
                     method: 'POST',
+                    redirect: 'follow',
                     body: formData
                 })
                 .then(response => response.json())
                 .then(data => {
-                    if (data.status == 'success') {
-                        form.style.display = 'none';
-                        document.getElementById('success-message').style.display = 'block';
-                    } else {
-                        alert("Non è stato possibile inviare il commento. Siete pregati di riprovare più tardi.");
-                    }
+                    console.log(data)
+                    form.style.display = 'none';
+                    document.getElementById('success-message').style.display = 'block';
+                    // if (data.status == 'success') {
+                    //     form.style.display = 'none';
+                    //     document.getElementById('success-message').style.display = 'block';
+                    // } else {
+                    //     alert("Non è stato possibile inviare il commento. Siete pregati di riprovare più tardi.");
+                    // }
                 })
                 .catch(error => console.error('Error:', error));
             } else {

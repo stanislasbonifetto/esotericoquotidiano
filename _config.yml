@@ -64,8 +64,8 @@ contact:
 
 
 #-------------------------------
-# Comment Section (GetForm)
-get-form-action-url: "https://script.google.com/macros/s/AKfycbyNpWhJg841Q3pSaHwTh58InpgmA44-1dNOh8SeZUIB6WOCLNYpO5irxbzzC1QaYkeGBQ/exec"
+# Comment Section
+get-form-action-url: "https://script.google.com/macros/s/AKfycbyK0-p1SlvZ--3x6LnBNeVgb2rLUfO0Rr60j9ww3Z3Hlv1mbaDafW4Msv0GYVf3vOtRwA/exec"
 
 
 #-------------------------------
