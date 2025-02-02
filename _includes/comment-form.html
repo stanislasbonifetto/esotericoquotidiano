@@ -15,7 +15,20 @@
         function onSubmit(token) {
             var form = document.getElementById('feedback-form');
             if(form.checkValidity()) {
-                form.submit();
+                event.preventDefault();
+                var formData = new FormData(form);
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', form.action, true);
+                xhr.setRequestHeader('Accept', 'application/xml');
+                xhr.onload = function() {
+                    if (xhr.status === 200) {
+                        form.style.display = 'none';
+                        document.getElementById('success-message').style.display = 'block';
+                    } else {
+                        alert("Non è stato possibile inviare il commento. Siete pregati di riprovare più tardi.");
+                    }
+                };
+                xhr.send(formData);
             } else {
                 showValidationResult(document.getElementById("comments-group-top"));
             }
@@ -43,55 +56,53 @@
                 <h4 class="widget__title">Scrivimi cosa ne pensi</h4>
             </div>
             <form id="feedback-form" action="{{ site.get-form-action-url }}" method="POST">
-            <div class="comments-group">
-                <div id="comments-group-top" class="comments-group-top">
-                    <input type="hidden" name="article" value="{{page.title}}">
-                    
-                    <div onfocusout="showValidationResult(this)">
-                        <input id="name" class="comments-item" type="text" name="name" placeholder="Nome" required/>
-                    </div>
-                    
-                    <div onfocusout="showValidationResult(this)">
-                        <input  class="email comments-item" type="email" name="email" placeholder="Email Address" required/>
-                    </div>
-            
-                    <div onfocusout="showValidationResult(this)">
-                        <textarea class="required comments-item" style="height: 100px;" rows="4" cols="50" name="feedback" placeholder="Scrivi un commento" required></textarea>
-                    </div>
-
-                    <div class="inline-content">
-                        <div>
-                            <label class="required comments-item" for="rating">Ti e' piaciuto?</label>
-                            <fieldset class="rating comments-item">
-                                <input type="radio" id="star5" name="rating" value="5" required/><label class = "full" for="star5" title="Fantastico - 5 stelle"></label>
-                                <input type="radio" id="star4half" name="rating" value="4.5" required/><label class="half" for="star4half" title="Interessante - 4.5 stelle"></label>
-                                <input type="radio" id="star4" name="rating" value="4" required/><label class = "full" for="star4" title="Interessante - 4 stelle"></label>
-                                <input type="radio" id="star3half" name="rating" value="3.5" required/><label class="half" for="star3half" title="Niente male - 3.5 stelle"></label>
-                                <input type="radio" id="star3" name="rating" value="3" required/><label class = "full" for="star3" title="Niente male - 3 stelle"></label>
-                                <input type="radio" id="star2half" name="rating" value="2.5" required/><label class="half" for="star2half" title="Non mi è piaciuto - 2.5 stelle"></label>
-                                <input type="radio" id="star2" name="rating" value="2" required/><label class = "full" for="star2" title="Non mi è piaciuto - 2 stelle"></label>
-                                <input type="radio" id="star1half" name="rating" value="1.5" required/><label class="half" for="star1half" title="Terribile - 1.5 stelle"></label>
-                                <input type="radio" id="star1" name="rating" value="1" required/><label class = "full" for="star1" title="Terribile - 1 stelle"></label>
-                                <input type="radio" id="starhalf" name="rating" value="0.5" required/><label class="half" for="starhalf" title="Terribile - 0.5 stelle"></label>
-                            </fieldset>
+                <div class="comments-group">
+                    <div id="comments-group-top" class="comments-group-top">
+                        <input type="hidden" name="entry.676267290" value="{{page.title}}">
+                        
+                        <div onfocusout="showValidationResult(this)">
+                            <input id="name" class="comments-item" type="text" name="entry.806879583" placeholder="Nome" required/>
                         </div>
-                        <!-- <div>
-                            <label class="comments-item" for="newsletter">Iscriviti alla newsletter</label>
-                            <input  class="required comments-item checkmark" type="checkbox" name="newsletter" value="newsletter" checked/>
-                        </div> -->
+                        
+                        <div onfocusout="showValidationResult(this)">
+                            <input  class="email comments-item" type="email" name="entry.224565101" placeholder="Email Address" required/>
+                        </div>
+                
+                        <div onfocusout="showValidationResult(this)">
+                            <textarea class="required comments-item" style="height: 100px;" rows="4" cols="50" name="entry.366632405" placeholder="Scrivi un commento" required></textarea>
+                        </div>
+
+                        <div class="inline-content">
+                            <div>
+                                <label class="required comments-item" for="rating">Ti e' piaciuto?</label>
+                                <fieldset class="rating comments-item">
+                                    <input type="radio" id="star5" name="entry.1637648007" value="5" required/><label class = "full" for="star5" title="Fantastico - 5 stelle"></label>
+                                    <input type="radio" id="star4" name="entry.1637648007" value="4" required/><label class = "full" for="star4" title="Interessante - 4 stelle"></label>
+                                    <input type="radio" id="star3" name="entry.1637648007" value="3" required/><label class = "full" for="star3" title="Niente male - 3 stelle"></label>
+                                    <input type="radio" id="star2" name="entry.1637648007" value="2" required/><label class = "full" for="star2" title="Non mi è piaciuto - 2 stelle"></label>
+                                    <input type="radio" id="star1" name="entry.1637648007" value="1" required/><label class = "full" for="star1" title="Terribile - 1 stelle"></label>
+                                </fieldset>
+                            </div>
+                            <!-- <div>
+                                <label class="comments-item" for="newsletter">Iscriviti alla newsletter</label>
+                                <input  class="required comments-item checkmark" type="checkbox" name="newsletter" value="newsletter" checked/>
+                            </div> -->
+                        </div>
                     </div>
+                    {% if site.g-re-captcha-site-key %}
+                    <button class="newsletter-button g-recaptcha" 
+                        data-sitekey="{{ site.g-re-captcha-site-key }}" 
+                        data-callback="onSubmit"
+                        type="submit"
+                        style="margin-top: 20px">Invia</button>
+                    {% else %}
+                    <button class="" type="submit">Invia</button>
+                    {% endif %}
                 </div>
-                {% if site.g-re-captcha-site-key %}
-                <button class="newsletter-button g-recaptcha" 
-                    data-sitekey="{{ site.g-re-captcha-site-key }}" 
-                    data-callback="onSubmit"
-                    type="submit"
-                    style="margin-top: 20px">Invia</button>
-                {% else %}
-                <button class="" type="submit">Invia</button>
-                {% endif %}
-            </div>
             </form>
+            <div id="success-message" style="display:none; text-align: center;">
+                Grazie per il tuo commento!
+            </div>
         </div>
     </div>
 {% endif %}
