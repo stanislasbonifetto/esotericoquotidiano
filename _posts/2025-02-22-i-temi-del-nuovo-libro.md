@@ -32,5 +32,5 @@ Ecco, di questo si parla nel Vademecum, tranquillamente ma con profondità. <br/
  <br/> 
 Dato che vorrei davvero fosse una sorta di manuale operativo, alla fine di ogni capitolo troverete una pagina non scritta dove segnare eventuali appunti, riflessioni, perplessità del momento. <br/> 
 E al fondo del libro ho messo a vostra disposizione una piccola “esercitazione” pratica. <br/> 
-Ma non voglio svelare troppo, manca poco ormai: nei primi giorni di marzo il libro dovrebbe essere disponibile per l’acquisto. <br/> 
+Ma non voglio svelare troppo, manca poco ormai: verso la metà di marzo il libro dovrebbe essere disponibile per l’acquisto. <br/> 
 
