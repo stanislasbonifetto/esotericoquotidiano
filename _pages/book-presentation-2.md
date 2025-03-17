@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: page
 title: È uscito il nuovo libro
-date: 2025-03-17 19:00:00 +0200
+permalink: /presentazione-nuovo-libro/
 image: '/images/uscito-il-nuovo-libro-top.jpg'
-tags:
+home_page: false
 ---
 
 Eccolo, è stampato! Anzi no, è – come l’altra volta per Esoterico Quotidiano – pronto per la stampa, perché verrà stampato nel momento stesso in cui voi lo acquisterete, onde evitare inutili sprechi di carta, spazio e denaro. Suona forse un po’ retorico, ma Vademecum per Entronauti verrà stampato proprio per ciascuno di voi, espressamente! <br/> 
  <br/> 
-Ho già accennato al suo contenuto nell’articolo precedente ([I temi del nuovo libro](https://www.esotericoquotidiano.it/2025/02/22/i-temi-del-nuovo-libro/)), ma vorrei dire qualcosa di più, sperando di non ripetermi. <br/> 
+Ho già accennato al suo contenuto nell’articolo precedente ([I temi del nuovo libro](/2025/02/22/i-temi-del-nuovo-libro/)), ma vorrei dire qualcosa di più, sperando di non ripetermi. <br/> 
 Ogni capitolo tratta più di un argomento, e lo fa – come sempre – utilizzando una prospettiva non usuale, che necessità di un vostro approccio altrettanto non usuale. Vediamo se riesco a darvene un’idea. <br/> 
  <br/> 
 C’è un motivo per iniziare un viaggio interiore? Più di uno, certamente! Io ho raccontato il mio, senza la pretesa che sia comune a tutti, ma basandomi sul fatto (innegabile) che si parte per un tale viaggio quando la realtà esterna non soddisfa più le esigenze fondamentali della nostra vita. <br/> 
@@ -23,4 +23,3 @@ Anche questo libro è stato costruito “in famiglia”, da noi cinque (Aemi, St
 Cosa sarà mai questo “qualcos’altro”? Se avrete la pazienza e soprattutto il coraggio per arrivare in fondo al libro, ne troverete una (molto) sommaria descrizione nei ringraziamenti. <br/> 
  <br/> 
 Buona lettura e buon viaggio, entronauti! <br/> 
-

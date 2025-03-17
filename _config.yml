@@ -24,7 +24,7 @@ url: "https://www.esotericoquotidiano.it" # the base hostname & protocol for you
 book:
   image: "/images/book-cover.png"
   url: "https://www.amazon.it/dp/B0DZ2D5PZC" #"https://www.amazon.it/Esoterico-quotidiano-Piccole-storie-grandi/dp/B08PXHJB7P/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esoterico+quotidiano&qid=1607502825&s=books&sr=1-1"
-  pageUrl: "/2025/02/22/i-temi-del-nuovo-libro/"
+  pageUrl: "/presentazione-nuovo-libro/"
 
 
 #-------------------------------
