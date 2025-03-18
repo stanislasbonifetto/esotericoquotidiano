@@ -4,7 +4,7 @@ title: Com'è nato EQ
 permalink: /come-e-nato-il-libro/
 image: '/images/come-e-nato-il-libro-bg.jpg'
 audio: '/audio/come-nato-il-libro.mp3'
-home_page: true
+home_page: false
 ---
 
 Un po’ di tempo fa riflettevo insieme a una mia amica su come molti incontri tra persone di per sé piuttosto interessanti sfociassero in conversazioni che di interessante avevano molto poco. <br/>

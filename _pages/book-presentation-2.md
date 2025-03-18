@@ -1,9 +1,9 @@
 ---
 layout: page
-title: È uscito il nuovo libro!
+title: Vademecum per Entronauti
 permalink: /presentazione-nuovo-libro/
 image: '/images/uscito-il-nuovo-libro-top.jpg'
-home_page: false
+home_page: true
 ---
 
 Eccolo, è stampato! Anzi no, è – come l’altra volta per Esoterico Quotidiano – pronto per la stampa, perché verrà stampato nel momento stesso in cui voi lo acquisterete, onde evitare inutili sprechi di carta, spazio e denaro. Suona forse un po’ retorico, ma Vademecum per Entronauti verrà stampato proprio per ciascuno di voi, espressamente! <br/> 
