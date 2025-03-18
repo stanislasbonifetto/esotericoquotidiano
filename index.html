@@ -11,19 +11,20 @@ layout: default
       </blockquote>
     </div>
     <div class="book-container">
-      <div class="book-area">
+      {% assign book = site.books | first %}
+      <div class="book-area" style="background-color: {{book.color}};">
         <div class="widget__box">
           <div class="widget__head">
               <h4 class="widget__title">Novità</h4>
           </div>
           <div class="book-data">
             <div class="book-image">
-              <img src="{{site.book.image}}">
+              <img src="{{book.image}}">
             </div>
             <div class="book-detail">
               <h3 st>È uscito il nuovo libro</h3>
-              <a class="buy-button" href="{{site.book.url}}" target="_blank">Il tuo ti aspetta qui</a>
-              <a class="book-article-link" href="{{site.book.pageUrl}}">Scopri di più</a>
+              <a class="buy-button" href="{{book.url}}" target="_blank">Il tuo ti aspetta qui</a>
+              <a class="book-article-link" href="{{book.pageUrl}}">Scopri di più</a>
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: È uscito il nuovo libro
+title: È uscito il nuovo libro!
 permalink: /presentazione-nuovo-libro/
 image: '/images/uscito-il-nuovo-libro-top.jpg'
 home_page: false

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Com'è nato il primo libro
+title: Com'è nato EQ
 permalink: /come-e-nato-il-libro/
 image: '/images/come-e-nato-il-libro-bg.jpg'
 audio: '/audio/come-nato-il-libro.mp3'

@@ -1,11 +1,11 @@
-<a class="book-area" href="{{site.book.url}}" target="_blank">
+<a class="book-area" href="{{book.url}}" style="background-color: {{book.color}};" target="_blank">
     <div class="widget__box">
         <div class="widget__head">
-            <h4 class="widget__title">Novità</h4>
+            <h4 class="widget__title">{{book.headline}}</h4>
         </div>
         <div class="book-image-container">
-            <img src="{{site.book.image}}">
+            <img src="{{book.image}}">
         </div>
-        <button class="buy-button">Puoi comprarlo qui</button>
+        <button class="buy-button">{{book.label}}</button>
     </div>
 </a>

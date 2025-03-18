@@ -9,7 +9,9 @@
     </div>
   {% endif %}
   <div class="widget">
-    {% include book-card.html %}
+    {% for book in site.books %}
+      {% include book-card.html book=book %}
+    {% endfor %}
   </div>
 
   <div class="widget widget-recent">

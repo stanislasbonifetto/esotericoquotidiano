@@ -1,7 +1,7 @@
 ---
 layout: page
-title: E' uscito il libro!
-permalink: /presentazione-libro/
+title: EQ é un libro
+permalink: /presentazione-eq/
 image: '/images/book-presentation-top.jpg'
 home_page: false
 ---

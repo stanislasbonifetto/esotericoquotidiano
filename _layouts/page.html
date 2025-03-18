@@ -17,8 +17,10 @@ layout: default
         </div>
         <div class="page__content">
           {{ content }}
-          {% if page.comment_enabled != false %}
-            <a class="buy-button" href="{{site.book.url}}" target="_blank" style="margin-bottom: 20px;">Compra il libro!</a>
+          {% if page.buy_enabled != false %}
+            {% assign default_book = site.books | first %}
+            {% assign selected_book = site.books | where: "pageUrl", page.permalink | first | default: default_book %}
+            <a class="buy-button" href="{{ selected_book.url }}" target="_blank" style="margin-bottom: 20px;">Puoi comprarlo qui</a>
           {% endif %}
           {% include comment-form.html %}
         </div>
