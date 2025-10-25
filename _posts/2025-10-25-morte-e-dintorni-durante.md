@@ -7,7 +7,7 @@ tags:
 ---
 
 Nel “*Fedone* ” Platone narra della morte di Socrate, di come egli avesse rifiutato la scappatoia dell’esilio o della fuga rispetto all’accettazione della condanna a morte che gli era stata comminata, e di come mostrò ai discepoli presenti la sua capacità di **vivere con coscienza e serenità**  il momento in cui la cicuta iniziava a fare il suo effetto, fino alla definitiva scomparsa della vita dal suo corpo. <br/> 
-Ricordo anche un’intervista a Tiziano Terzani, in cui lui – ormai prossimo alla morte – raccontava perché stesse rifiutando di prendere antidolorifici: «*Fa male? Certo che fa male! Ma* **voglio essere presente** *, quando sarà il momento di morire, con tutta la mia coscienza* ». <br/> 
+Ricordo anche un’intervista a Tiziano Terzani, in cui lui – ormai prossimo alla morte – raccontava perché stesse rifiutando di prendere antidolorifici: «*Fa male? Certo che fa male! Ma ***voglio essere presente***, quando sarà il momento di morire, con tutta la mia coscienza* ». <br/> 
 Beninteso, io non posso nemmeno paragonarmi a questi illustri esempi, poiché ho una soglia del dolore abbastanza bassa. Tuttavia, sperando che il mio trapasso non sia accompagnato da sofferenze insopportabili, sono molto curioso di andare a vedere di cosa si tratta. Per vari motivi. <br/> 
   <br/> 
 Il più importante è che da ormai oltre quarant’anni dedico il meglio di me a un cammino interiore volto a **far fiorire un’anima veramente spirituale**  all’interno del mio sistema vitale. È stato – ed è – un cammino abbastanza arduo, impregnato di momenti di intensa gioia ma ostacolato da parecchi avversari, esterni prima, interni poi. <br/> 
