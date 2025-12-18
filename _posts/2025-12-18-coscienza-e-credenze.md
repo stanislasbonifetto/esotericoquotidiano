@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coscienza e credenze
-date: 2025-12-18 19:00:00 +0200
+date: 2025-12-18 13:00:00 +0200
 image: '/images/coscienza-e-credenze-top.jpg'
 tags:
 ---
