@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La prima comunità
-date: 2026-02-21 22:00:00 +0200
+date: 2026-02-21 15:00:00 +0200
 image: '/images/la-prima-comunità-top.jpg'
 tags:
 ---
