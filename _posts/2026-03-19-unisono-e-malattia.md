@@ -7,7 +7,7 @@ tags:
 ---
 
 Nel 1614 la Fraternità della Rosacroce – un cenacolo di sapienti che viveva intorno a Tübingen, in Germania – pubblicò la “*Fama Fraternitatis”*, un appello della Fraternità Universale ai capi di stato, notabili ed eruditi d’Europa, il primo di tre libretti che, a quel tempo, fecero molto scalpore (si contarono più di un centinaio di piccole e grandi pubblicazioni in loro risposta). <br/> 
-Nella prima pagina della *Fama*  si dichiarava che “*la fierezza e l’orgoglio dei dotti impediva loro di comporre* **di concerto** *un “librum naturae”, una norma di tutte le arti, nonostante tutto quello che veniva loro elargito alla loro epoca in termini di conoscenza* ”. <br/> 
+Nella prima pagina della *Fama*  si dichiarava che “*la fierezza e l’orgoglio dei dotti impediva loro di comporre **di concerto** un “librum naturae”, una norma di tutte le arti, nonostante tutto quello che veniva loro elargito alla loro epoca in termini di conoscenza*”. <br/> 
   <br/> 
 Cos’è che ci separa dal meraviglioso **unìsono**  che permea il nostro stesso organismo? <br/> 
 Ricordate? Terminava così il precedente articolo di questo blog, ([La prima comunità](https://www.esotericoquotidiano.it/2026/02/21/la-prima-comunit%C3%A0/)), e forse i Rosacroce del XVII secolo già conoscevano la risposta: *la fierezza e l’orgoglio dei dotti*, di chi crede di sapere e invece non “conosce”. <br/> 
