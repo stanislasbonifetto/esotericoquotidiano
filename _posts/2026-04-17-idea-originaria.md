@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'Idea Originaria
-date: 2026-04-17 16:00:00 +0200
+date: 2026-04-17 09:00:00 +0200
 image: '/images/idea-originaria-top.jpg'
 tags:
 ---
